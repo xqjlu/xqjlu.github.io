@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiang Xu / Postdoc"
+title                    : "XQ/Home"
 title_separator          : "-"
 name                     : &name "Qiang Xu"
 description              : &description "personal description"
@@ -85,7 +85,7 @@ author:
   bio              : "PhD in Physics"
   location         : "Riverside"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xqjlu"
   google_plus      :
   keybase          :
   instagram        :
