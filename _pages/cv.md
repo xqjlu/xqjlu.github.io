@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Jilin University, 2011-2015
+* Ph.D in Condensed Matter Physics, Jilin University, 2015-2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022/09-now : Postdoc Researcher
+  * University of California, Riverside
+  * Duties included: The development of velocity-gauge real-time TD-DFTB
+  * Supervisor: Bryan M. Wong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021/09-now : Postdoc Researcher & Affiliate
+  * Lawrence Berkeley National Laboratory
+  * Duties included: The development of core-level binding energies calculation method
+  * Supervisor: Oliver Gessner and Jin Qian
+
+* 2020/07-2021/09 : Postdoc Researcher under the first ‘Ding Xin’ scholarship
+  * Jilin University
+  * Duties included: The development of nonlocal pseudopotential method for orbital-free density functional theory
+  * Supervisor: Yanchao Wang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Theory:
+  * Time-dependent density functional theory
+  * Orbital-free/Kohn-Sham density functional theory
+  * Differential Geometry, and Functional Analysis
+* Coding:
+  * Fortran90 (~40000 lines in total for ATLAS, ARES, VG-rtTDDFTB Packages)
+  * Python
 
 Publications
 ======
