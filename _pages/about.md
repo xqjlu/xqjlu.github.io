@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoc Researcher at [UCR](https://www.ucr.edu/) and affliate at at [Lawrence Berkeley National Lab](https://www.lbl.gov).
 
-Email: <xuq@ucr.edu> / <xuq@lbl.gov>
+Email: <qiangx@ucr.edu> / <xuq@lbl.gov>
 
 Research Interests
 ======
