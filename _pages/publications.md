@@ -7,7 +7,10 @@ author_profile: true
   - /publications.html/
 ---
 \+ Corresponding Author
+
 a These authors contributed equally
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate) 
 
 ## 2022
 * "[Nonlocal pseudopotential energy density functional for orbital-free density functional theory](https://doi.org/10.1038/s41467-022-29002-3)",
