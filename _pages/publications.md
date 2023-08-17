@@ -3,9 +3,10 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+  - /publications.md/
+  - /publications.html/
 ---
 \+ Corresponding Author
-
 a These authors contributed equally
 
 ## 2022
