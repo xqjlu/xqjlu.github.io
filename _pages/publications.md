@@ -6,9 +6,7 @@ author_profile: true
   - /publications.md/
   - /publications.html/
 ---
-\+ Corresponding Author
-
-a These authors contributed equally
+\+ Corresponding Author; **a** These authors contributed equally
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate) 
 
