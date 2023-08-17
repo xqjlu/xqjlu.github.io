@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Home"
+    url: https://xqjlu.github.io/
+
   - title: "Publications"
     url: /publications/
 
