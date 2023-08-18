@@ -27,6 +27,6 @@ Developed Packages
 
 * VG-RT-TDDFTB: Velocity-Gauge Real-Time Time-Dependent Density Fucntional Tight-Binding for large-scale electron dynamics (1000+ atoms).
 * ARES : Ab initio Real-Space Electronic Structures calculation method (1-10k atoms).
-* ATLAS: Ab initio orbiTaL-free density functionAl theory Software (1-100 million atoms).
+* [ATLAS](http://atlas-ch.cn/): Ab initio orbiTaL-free density functionAl theory Software (1-100 million atoms).
 
 [Download](https://xqjlu.github.io/software/)
