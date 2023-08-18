@@ -4,6 +4,9 @@ main:
   - title: "Home"
     url: https://xqjlu.github.io/
 
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
