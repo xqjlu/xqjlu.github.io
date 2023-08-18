@@ -20,7 +20,7 @@ main:
 #    url: /year-archive/
 
   - title: "Software"
-    url: https://xqjlu.github.io/
+    url: /software/
     
   - title: "CV"
     url: /cv/
