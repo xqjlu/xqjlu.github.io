@@ -18,6 +18,9 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
+
+  - title: "Software"
+    url: https://xqjlu.github.io/
     
   - title: "CV"
     url: /cv/
