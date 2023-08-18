@@ -22,4 +22,11 @@ My research focuses on the development of novel theoretical and computational me
 * Real-space pseudopotential electronic structure calculation package;
 * Core-level binding energies calculation method.
 
-[See more>>](https://xqjlu.github.io/publications/)
+Developed Packages
+======
+
+* VG-RT-TDDFTB: Velocity-Gauge Real-Time Time-Dependent Density Fucntional Tight-Binding for large-scale electron dynamics (1000+ atoms).
+* ARES : Ab initio Real-Space Electronic Structures calculation method (1-10k atoms).
+* [ATLAS](https://www.atlas-ch.cn): Ab initio orbiTaL-free density functionAl theory Software (1-100 millions atoms).
+
+[Download](https://xqjlu.github.io/publications/)
