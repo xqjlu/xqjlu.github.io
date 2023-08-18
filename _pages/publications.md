@@ -38,7 +38,12 @@ Hongxia Hao<sup>+</sup>, Luis R. Pestana<sup>+</sup>, Jin Qian<sup>+</sup>, Meil
 * "[Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory](https://doi.org/10.1103/PhysRevB.100.205132)",
 **Qiang Xu**, Yanchao Wang<sup>+</sup> and Yanming Ma<sup>+</sup>
 ***Phys. Rev. B*** **100**, 205132 (2019)
-
 * "[*Ab Initio* electronic structure calculations using a real-space Chebyshev- filtered subspace iteration method](https://doi.org/10.1088/1361-648X/ab2a63)",
 **Qiang Xu**<sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>+</sup>, and Yanming Ma<sup>+</sup>
 ***J. Phys.: Condens. Matter*** **31**, 455901 (2019)
+
+## 2018
+* "[Large-scale ab initio simulations for periodic system](https://doi.org/10.1016/j.cpc.2018.07.009)",
+Xuecheng Shao, **Qiang Xu**, Sheng Wang, Jian Lv, Yanchao Wang<sup>+</sup>, and Yanming Ma<sup>+</sup>
+***Comput. Phys. Commun.*** **233**, 78-83 (2018)
+
