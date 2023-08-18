@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc Researcher at [UCR](https://www.ucr.edu/) and affliate at at [Lawrence Berkeley National Lab](https://www.lbl.gov).
+I am a Postdoc Researcher at [UCR](https://www.ucr.edu/) and affiliate at at [LBNL](https://www.lbl.gov).
 
 Email: <qiangx@ucr.edu> / <xuq@lbl.gov>
 

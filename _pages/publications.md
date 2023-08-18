@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2023
 * "Velocity-gauge Real-time Time-dependent Density Functional Tight-binding for Large-scale Condensed Matter Systems",
-**Qiang Xu**, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong
+**Qiang Xu**, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>+</sup>
 Submitted (2023)
 * "[Agglomeration Drives the Reversed Fractionation of Aqueous Carbonate and Bicarbonate at the Air-water Interface](https://arxiv.org/abs/2301.05786)",
 Shane W. Devlin, Amanda A. Chen, Sasawat Jamnuch, **Qiang Xu**, Jin Qian<sup>+</sup>, Tod A. Pascal<sup>+</sup>, and Richard J. Saykally<sup>+</sup>
