@@ -30,7 +30,7 @@ We presented a Kohn-Sham DFT based calculation package (ARES), utilizing real-sp
   * Traditional all-electron method
     * (o) High accuracy
     * (-) An additional algorithm is required to protect the core hole in the final-state calculations, which unexpectedly causes variational collapse.
-    * (-) When the system contains multiple identical elements, it is difficult to specify specific atoms and core states.
+    * (-) When the system contains multiple identical elements, it is difficult to select specific atom and core state.
     * (-) The expensive computation cost for large-scale systems
   * Real-space pseudopotential method
     * (o) High accuracy
