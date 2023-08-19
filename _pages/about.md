@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Qiang's Homepage"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
