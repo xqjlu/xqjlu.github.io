@@ -19,7 +19,7 @@ My research focuses on the development of novel theoretical and computational me
 
 * Orbital-free density functional theory (OF-DFT);
 * Velocity-gauge real-time time-dependent density fucntional tight-binding (VG-rtTDDFTB);
-* Real-space pseudopotential electronic structure calculation package;
+* Real-space pseudopotential electronic structure calculation package (ARES);
 * Core-level binding energies calculation method.
 
 [Read more](https://xqjlu.github.io/research/)
