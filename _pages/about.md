@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc Researcher at [UCR](https://www.ucr.edu/) and affiliate at [LBNL](https://www.lbl.gov).
+I am a Postdoc Researcher at [UCR](https://www.ucr.edu/) and affiliate at [LBNL](https://www.lbl.gov). My research focuses on the derivation, development, and implementation of efficient computational methods for condensed matter physics. I am one of the main developers of the VG-RT-TDDFTB, ATLAS and ARES packages for mesoscale simulations at the DFT level.
 
 Email: <qiangx@ucr.edu> / <xuq@lbl.gov>
 
