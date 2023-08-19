@@ -28,12 +28,12 @@ We presented a Kohn-Sham DFT based calculation package (ARES), utilizing real-sp
   * Massively parallel is on going
 * Real-Space Pesudopotential Core-Level Binding Energies Calculation Method (CEBE). See Ref.[CEBE](https://doi.org/10.1021/acs.jctc.2c00474).
   * Traditional all-electron method
-    * (o) Accuracy
+    * (o) High accuracy
     * (-) An additional algorithm is required to protect the core hole in the final-state calculations, which unexpectedly causes variational collapse.
     * (-) When the system contains multiple identical elements, it is difficult to specify specific atoms and core states.
     * (-) The expensive computation cost for large-scale systems
   * Real-space pseudopotential method
-    * (o) Accuracy
+    * (o) High accuracy
     * (o) No need to introduce additional algorithms for final-state calculaton, good numerical stability
     * (o) Using non-self-consistent hybrid functional to refine the total energy, high efficiency and accuaracy
     * (o) Core-hole atom and state can be specially and easily selected
