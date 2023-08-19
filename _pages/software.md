@@ -14,7 +14,6 @@ redirect_from:
   (Not open source)
 
 **ATLAS**: Ab initio orbiTaL-free density functionAl theory Software.
-
   [Download](http://atlas-ch.cn/).
 
   * Relevant publications
