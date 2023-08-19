@@ -13,5 +13,5 @@ redirect_from:
 * **ARES**: Ab initio Real-Space Electronic Structures software
   (Not open source)
 
-* **ATLAS**: Ab initio orbiTaL-free density functionAl theory Software
-  [Downoad](http://atlas-ch.cn/)
+* **ATLAS**: Ab initio orbiTaL-free density functionAl theory Software.
+  [Download](http://atlas-ch.cn/).
