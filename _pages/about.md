@@ -22,6 +22,8 @@ My research focuses on the development of novel theoretical and computational me
 * Real-space pseudopotential electronic structure calculation package;
 * Core-level binding energies calculation method.
 
+[Read more](https://xqjlu.github.io/research/)
+
 Developed Packages
 ======
 
