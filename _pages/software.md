@@ -20,4 +20,4 @@ redirect_from:
 * **ATLAS**: Ab initio orbiTaL-free density functionAl theory Software
   [Downoad](http://atlas-ch.cn/)
 
-  ATLAS is an orbital-free DFT based package for solving the Euler–Lagrange equation for non-periodic/periodic systems. Due to its quasilinear scaling behaviour, it can be used to simulate mesoscale systems, where contains millions atoms per unit cell.
+  ATLAS is an orbital-free DFT based package for solving the Euler–Lagrange equation for non-periodic/periodic systems. Due to its quasilinear scaling behaviour, it can be used to simulate mesoscale systems, where contains millions atoms per unit cell. Furthermoer, , we first proposed the nonlocal pseudopotential method in this field, which defies the belief that nonlocal pseudopotentials are not applicable to OF-DFT, leading to the creation for an alternate theoretical framework of OF-DFT that works superior to the traditional approach.
