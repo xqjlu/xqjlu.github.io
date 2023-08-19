@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Q.X./Postdoc"
+title                    : #"Q.X./Postdoc"
 title_separator          : "-"
 name                     : &name "Qiang Xu"
 description              : &description "personal description"
