@@ -25,7 +25,7 @@ Work experience
 * 2021/09-now : Postdoc Researcher & Affiliate
   * Lawrence Berkeley National Laboratory
   * Duties included: The development of core-level binding energies calculation method
-  * Supervisor: Oliver Gessner and [Jin Qian](https://sites.google.com/lbl.gov/qiangrouppage/home?authuser=0)
+  * Supervisor: [Jin Qian](https://sites.google.com/lbl.gov/qiangrouppage/home?authuser=0)
 
 * 2020/07-2021/09 : Postdoc Researcher under the first ‘Ding Xin’ scholarship
   * Jilin University
@@ -60,6 +60,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
 * Updating
