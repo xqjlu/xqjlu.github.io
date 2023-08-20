@@ -13,7 +13,7 @@ redirect_from:
 **ARES**: Ab initio Real-Space Electronic Structures software
   (Not open source)
   * Relevant publications
-    1. [Q. Xu et al., J. Phys.:condens. Matt. (2019)](https://doi.org/10.1088/1361-648X/ab2a63)
+    1. [Q. Xu et al., J. Phys.: Condens. Matt. (2019)](https://doi.org/10.1088/1361-648X/ab2a63)
 
 **ATLAS**: Ab initio orbiTaL-free density functionAl theory Software.
   [Download](http://atlas-ch.cn/).
