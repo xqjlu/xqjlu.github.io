@@ -1,7 +1,7 @@
 ---
 permalink: /software/
 title: "Software"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /sw/
   - /software.html
