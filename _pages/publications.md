@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2023
 * "Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",
-Glenna, D. M., Jana, A., **Qiang Xu**, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H.</sup>+</sup>, Jin Qian</sup>+</sup>, Snyder, S. W.</sup>+</sup>,
+Glenna, D. M., Jana, A., **Qiang Xu**, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H.<sup>+</sup>, Jin Qian<sup>+</sup>, Snyder, S. W.<sup>+</sup>,
 Submitted (2023)
 * "Velocity-gauge Real-time Time-dependent Density Functional Tight-binding for Large-scale Condensed Matter Systems",
 **Qiang Xu**, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>+</sup>,
