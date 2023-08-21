@@ -17,18 +17,18 @@ Education
 
 Work experience
 ======
-* 2022/09-now : Postdoc Researcher
-  * University of California, Riverside
+* **2022/09-now** : University of California, Riverside
+  * Postdoc Researcher
   * Duties included: The development of velocity-gauge real-time TD-DFTB
   * Supervisor: [Bryan M. Wong](https://www.bmwong-group.com/)
 
-* 2021/09-now : Postdoc Researcher & Affiliate
-  * Lawrence Berkeley National Laboratory
+* **2021/09-now** : Lawrence Berkeley National Laboratory
+  * Postdoc Researcher & Affiliate
   * Duties included: The development of core-level binding energies calculation method
   * Supervisor: [Jin Qian](https://sites.google.com/lbl.gov/qiangrouppage/home?authuser=0)
 
-* 2020/07-2021/09 : Postdoc Researcher under the first ‘Ding Xin’ scholarship
-  * Jilin University
+* 2020/07-2021/09 : Jilin University
+  * Postdoc Researcher under the first ‘Ding Xin’ scholarship
   * Duties included: The development of nonlocal pseudopotential method for orbital-free density functional theory
   * Supervisor: [Yanchao Wang](http://iccms.jlu.edu.cn/info/1036/1040.htm)
   
@@ -46,12 +46,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
