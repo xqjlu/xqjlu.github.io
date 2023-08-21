@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-In short, I am committed to developing fast and accurate computational theories and methods, which can be used to accurately describe the properties of nanoscale systems. Currently, I am working on three research directions:
+In short, I am committed to developing fast and accurate computational theories and methods, which can be used to accurately describe the properties of nanoscale systems. Currently, I am working on three directions:
 
 **1. Velocity-Gauge Real-Time DFTB**
 
@@ -35,7 +35,7 @@ We presented a Kohn-Sham DFT based calculation package (ARES), utilizing real-sp
   * Real-space pseudopotential method
     * (o) High accuracy
     * (o) No need to introduce additional algorithms for final-state calculaton, good numerical stability
-    * (o) Using non-self-consistent hybrid functional to refine the total energy, high efficiency and accuaracy
+    * (o) Using non-self-consistent hybrid functional to refine the total energy at a low computational cost
     * (o) Core-hole atom and state can be specially and easily selected
     * (o) non-periodic boundary condtions for charged final-state calculation
     * (o) High computational efficiency for large-scale systems
