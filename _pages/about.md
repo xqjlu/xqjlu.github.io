@@ -18,7 +18,7 @@ Research Interests
 My research focuses on the development of novel theoretical and computational method for mesoscale condensed matter physics:
 
 * Orbital-free density functional theory (OF-DFT);
-* Velocity-gauge real-time time-dependent density fucntional tight-binding (VG-rtTDDFTB);
+* Velocity-gauge real-time time-dependent density fucntional tight-binding (VG-RT-TDDFTB);
 * Real-space pseudopotential electronic structure calculation package (ARES);
 * Core-level binding energies calculation method.
 
