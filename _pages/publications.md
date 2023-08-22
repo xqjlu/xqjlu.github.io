@@ -27,7 +27,7 @@ Submitted (2023)
 Hongxia Hao<sup>+</sup>, Luis R. Pestana<sup>+</sup>, Jin Qian<sup>+</sup>, Meili Liu, **Qiang Xu**, and Teresa Head-Gordon<sup>+</sup>  
 ***WIREs: Comput. Mol. Sci.*** **e1639**, (2022)
 * "[Real-space pseudopotential method for the calculation of 1s core-level binding energies](https://doi.org/10.1021/acs.jctc.2c00474)"  
-**Qiang Xu**, David Prendergast, and Jin Qian<sup>+</sup>,
+**Qiang Xu**, David Prendergast, and Jin Qian<sup>+</sup>  
 ***J. Chem. Theory Comput.*** **18**, 9, 5471-5478 (2022)
 * "[Nonlocal pseudopotential energy density functional for orbital-free density functional theory](https://doi.org/10.1038/s41467-022-29002-3)"  
 **Qiang Xu**, Cheng Ma, Wenhui Mi, Yanchao Wang<sup>+</sup>, and Yanming Ma  
