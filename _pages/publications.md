@@ -15,7 +15,7 @@ redirect_from:
 * "Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation"  
 Glenna, D. M., Jana, A., **Qiang Xu**, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H.<sup>+</sup>, Jin Qian<sup>+</sup>, Snyder, S. W.<sup>+</sup>  
 Submitted (2023)
-* "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems"  
+* "[Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems](https://doi.org/10.48550/arXiv.2308.09782)"  
 **Qiang Xu**, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>+</sup>  
 Submitted (2023)
 * "[Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air-water interface](https://arxiv.org/abs/2301.05786)"  
