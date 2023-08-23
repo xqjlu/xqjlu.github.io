@@ -70,6 +70,16 @@ redirect_from:
 <a href="https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank"><b>Comput. Phys. Commun.</b>, 233, 78-83 (2018)</a>
 </li><br>
 
+<!--2016-->
+<li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang, and Yanming Ma, "O(NIogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
+<a href="https://doi.org/10.1063/1.4967319"  target="_blank"><b>J. Chem. Phys.</b>, 145, 184110 (2016)</a>
+</li><br>
+
+
+<li>Yuanyuan Zhou, <b>Qiang Xu</b>, Chunye Zhu, Qian Li, Hanyu Liu, Hui Wang, and John S. Tse, "Predicted lithium–iron compounds under high pressure",  
+<a href="https://doi.org/10.1039/C6RA11064A"  target="_blank"><b>RSC Adv.</b>, 6, 66721-66728 (2016)</a>
+</li><br>
+
 </ol>
 
 
