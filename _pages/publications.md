@@ -7,9 +7,7 @@ redirect_from:
   - /publications.md/
   - /publications.html/
 ---
-\+ Corresponding Author; a These authors contributed equally
-
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate) 
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
@@ -36,6 +34,12 @@ a:active {
 
 <div id="container" style="width:1120px">
 
+<div id="pubname" style="width:1120px ;text-align: right;">
+        <p></p>
+        <span class="cn_tit_one">Selected Publications</span>
+        <p></p>
+</div>
+
 <hr align="left" color="#000000" width="1120">
 
 <a name="top"></a>
@@ -48,7 +52,7 @@ a:active {
 
 <ol style="padding-left: 40px;" reversed="" start="188">
 <!--2023-->
-<li>"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation", Glenna, D. M., Jana, A., **Qiang Xu**, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H.<sup>+</sup>, Jin Qian<sup>+</sup>, Snyder, S. W.<sup>+</sup>, Submitted (2023)</li><br>
+<li>Glenna, D. M., Jana, A., Qiang Xu, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H., Jin Qian, Snyder, S. W.,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation", <a href="https://link.springer.com/article/10.1007/s11467-023-1276-4" target="_blank"><b>Submitted (2023)</b>, 43303, (2023)</a></li><br>
 * "[Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems](https://doi.org/10.48550/arXiv.2308.09782)"  
 **Qiang Xu**, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>+</sup>  
 Submitted (2023)
