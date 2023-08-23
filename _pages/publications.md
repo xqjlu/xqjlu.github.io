@@ -14,14 +14,6 @@ redirect_from:
 <meta http-equiv="expires" content="0">
 
   <style>
-    p{
-      color: #AE0000;
-      text-align: left;
-      font-weight: bold;
-    }
-  </style>
-
-  <style>
     a{
       color: #00F;
      }
@@ -36,15 +28,17 @@ redirect_from:
 
 
 
+\+ Corresponding Author; a These authors contributed equally  
+<a href=https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdatetarget="_blank">Google Scholar</a>
 
 <div id="publists" class="en_pub">
 
 
 <ol style="padding-left: 40px;" reversed="" start="12">
 <!--2023-->
-<p>2023</p>  
-<li>Glenna, D. M., Jana, A., <b>Qiang Xu</b>, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H., Jin Qian, Snyder, S. W.,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
-<a href="https://link.springer.com/article/10.1007/s11467-023-1276-4" target="_blank"><b>Submitted</b>, arXiv (2023)</a>
+<b>2023</b>  
+<li>Drew M. Glenna, Amsita Jana, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao, Jin Qian, and Seth W. Snyder,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
+<a href="https://doi.org/10.26434/chemrxiv-2023-w6nx6" target="_blank"><b>ChemRxiv</b>, (2023)</a>
 </li><br>
 
 <li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong, "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
@@ -56,7 +50,7 @@ redirect_from:
 </li><br>
 
 <!--2022-->
-<p>2022</p>  
+<b>2022</b>  
 <li>Hongxia Hao, Luis R. Pestana, Jin Qian, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon, "Chemical transformations and transport phenomena at interfaces",  
 <a href="https://doi.org/10.1002/wcms.1639" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1639 (2022)</a>
 </li><br>
@@ -70,13 +64,13 @@ redirect_from:
 </li><br>
 
 <!--2020-->
-<p>2020</p>  
+<b>2020</b>  
 <li><b>Qiang Xu</b>, Jian Lv, Yanchao Wang, and Yanming Ma, "Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",  
 <a href="https://doi.org/10.1103/PhysRevB.101.045110" target="_blank"><b>Phys. Rev. B</b>, 101, 045110 (2020)</a>  
 </li><br>
 
 <!--2019-->
-<p>2019</p>  
+<b>2019</b>  
 <li><b>Qiang Xu</b>, Yanchao Wang, and Yanming Ma, "Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",  
 <a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank"><b>Phys. Rev. B</b>, 100, 205132 (2019)</a>  
 </li><br>
@@ -86,13 +80,13 @@ redirect_from:
 </li><br>
 
 <!--2018-->
-<p>2018</p>  
+<b>2018</b>  
 <li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang, and Yanming Ma, "Large-scale ab initio simulations for periodic system",  
 <a href="https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank"><b>Comput. Phys. Commun.</b>, 233, 78-83 (2018)</a>
 </li><br>
 
 <!--2016-->
-<p>2016</p>  
+<b>2016</b>  
 <li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang, and Yanming Ma, "O(NIogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
 <a href="https://doi.org/10.1063/1.4967319"  target="_blank"><b>J. Chem. Phys.</b>, 145, 184110 (2016)</a>
 </li><br>
