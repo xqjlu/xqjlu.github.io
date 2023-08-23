@@ -11,8 +11,43 @@ redirect_from:
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate) 
 
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="expires" content="0">
+
+<style type="text/css">
+<!--
+a:link {
+        color: #00F;
+}
+a:visited {
+        color: #00F;
+}
+a:hover {
+        color: #060;
+}
+a:active {
+        color: #00F;
+}
+-->
+</style></head>
+
+<body>
+
+<div id="container" style="width:1120px">
+
+<hr align="left" color="#000000" width="1120">
+
+<a name="top"></a>
+
+
+
+
+<div id="publists" class="en_pub">
+
+
 <ol style="padding-left: 40px;" reversed="" start="188">
-## 2023
+<!--2023-->
 <li>"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation", Glenna, D. M., Jana, A., **Qiang Xu**, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H.<sup>+</sup>, Jin Qian<sup>+</sup>, Snyder, S. W.<sup>+</sup>, Submitted (2023)</li><br>
 * "[Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems](https://doi.org/10.48550/arXiv.2308.09782)"  
 **Qiang Xu**, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>+</sup>  
