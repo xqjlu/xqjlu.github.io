@@ -33,9 +33,10 @@ redirect_from:
 
 
 <ol style="padding-left: 40px;" reversed="" start="12">
-† Corresponding Author; a These authors contributed equally
- 
-<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
+
+† Corresponding Author; a These authors contributed equally 
+[<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]<br>
+
 
 <!--2023-->
 <b>2023</b>  
