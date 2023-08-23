@@ -42,8 +42,7 @@ redirect_from:
 
 <ol style="padding-left: 40px;" reversed="" start="12">
 <!--2023-->
-<p>2023</p>
-
+<p>2023</p>  
 <li>Glenna, D. M., Jana, A., <b>Qiang Xu</b>, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H., Jin Qian, Snyder, S. W.,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
 <a href="https://link.springer.com/article/10.1007/s11467-023-1276-4" target="_blank"><b>Submitted</b>, arXiv (2023)</a>
 </li><br>
@@ -57,8 +56,7 @@ redirect_from:
 </li><br>
 
 <!--2022-->
-<b>2022</b>
-
+<p>2022</p>  
 <li>Hongxia Hao, Luis R. Pestana, Jin Qian, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon, "Chemical transformations and transport phenomena at interfaces",  
 <a href="https://doi.org/10.1002/wcms.1639" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1639 (2022)</a>
 </li><br>
@@ -72,15 +70,13 @@ redirect_from:
 </li><br>
 
 <!--2020-->
-<b>2020</b>
-
+<p>2020</p>  
 <li><b>Qiang Xu</b>, Jian Lv, Yanchao Wang, and Yanming Ma, "Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",  
 <a href="https://doi.org/10.1103/PhysRevB.101.045110" target="_blank"><b>Phys. Rev. B</b>, 101, 045110 (2020)</a>  
 </li><br>
 
 <!--2019-->
-<b>2019</b>
-
+<p>2019</p>  
 <li><b>Qiang Xu</b>, Yanchao Wang, and Yanming Ma, "Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",  
 <a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank"><b>Phys. Rev. B</b>, 100, 205132 (2019)</a>  
 </li><br>
@@ -90,15 +86,13 @@ redirect_from:
 </li><br>
 
 <!--2018-->
-<b>2018</b>
-
+<p>2018</p>  
 <li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang, and Yanming Ma, "Large-scale ab initio simulations for periodic system",  
 <a href="https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank"><b>Comput. Phys. Commun.</b>, 233, 78-83 (2018)</a>
 </li><br>
 
 <!--2016-->
-<b>2016</b>
-
+<p>2016</p>  
 <li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang, and Yanming Ma, "O(NIogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
 <a href="https://doi.org/10.1063/1.4967319"  target="_blank"><b>J. Chem. Phys.</b>, 145, 184110 (2016)</a>
 </li><br>
