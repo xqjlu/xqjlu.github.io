@@ -33,7 +33,7 @@ redirect_from:
 
 
 <!--2023-->
-<b><big>2023</big></b>  
+<b>2023</b>  
 <hr align="left" color="#000000">
 <li>Drew M. Glenna<sup>a</sup>, Amsita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
 <a href="https://doi.org/10.26434/chemrxiv-2023-w6nx6" target="_blank"><b>ChemRxiv</b>, (2023)</a>
@@ -49,6 +49,7 @@ redirect_from:
 
 <!--2022-->
 <b>2022</b>  
+<hr align="left" color="#000000">
 <li>Hongxia Hao<sup>a,†</sup>, Luis R. Pestana<sup>a,†</sup>, Jin Qian<sup>a,†</sup>, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon<sup>†</sup>, "Chemical transformations and transport phenomena at interfaces",  
 <a href="https://doi.org/10.1002/wcms.1639" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1639 (2022)</a>
 </li><br>
@@ -63,12 +64,14 @@ redirect_from:
 
 <!--2020-->
 <b>2020</b>  
+<hr align="left" color="#000000">
 <li><b>Qiang Xu</b>, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",  
 <a href="https://doi.org/10.1103/PhysRevB.101.045110" target="_blank"><b>Phys. Rev. B</b>, 101, 045110 (2020)</a>  
 </li><br>
 
 <!--2019-->
 <b>2019</b>  
+<hr align="left" color="#000000">
 <li><b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",  
 <a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank"><b>Phys. Rev. B</b>, 100, 205132 (2019)</a>  
 </li><br>
@@ -79,12 +82,14 @@ redirect_from:
 
 <!--2018-->
 <b>2018</b>  
+<hr align="left" color="#000000">
 <li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Large-scale ab initio simulations for periodic system",  
 <a href="https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank"><b>Comput. Phys. Commun.</b>, 233, 78-83 (2018)</a>
 </li><br>
 
 <!--2016-->
 <b>2016</b>  
+<hr align="left" color="#000000">
 <li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "O(NIogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
 <a href="https://doi.org/10.1063/1.4967319"  target="_blank"><b>J. Chem. Phys.</b>, 145, 184110 (2016)</a>
 </li><br>
