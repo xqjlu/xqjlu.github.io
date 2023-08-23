@@ -62,7 +62,7 @@ redirect_from:
 </li><br>
 
 <li><b>Qiang Xu</b>, Sheng Wang, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang, and Yanming Ma, "Ab Initio electronic structure calculations using a real-space Chebyshev- filtered subspace iteration method",  
-<a href="https://doi.org/10.1088/1361-648X/ab2a63)" target="_blank"><b>J. Phys.: Condens. Matter</b>, 31, 455901 (2019)</a>
+<a href="https://doi.org/10.1088/1361-648X/ab2a63" target="_blank"><b>J. Phys.: Condens. Matter</b>, 31, 455901 (2019)</a>
 </li><br>
 
 <!--2018-->
