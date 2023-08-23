@@ -24,7 +24,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="188">
+<ol style="padding-left: 40px;" reversed="" start="12">
 <!--2023-->
 <li>Glenna, D. M., Jana, A., <b>Qiang Xu</b>, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H., Jin Qian, Snyder, S. W.,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
 <a href="https://link.springer.com/article/10.1007/s11467-023-1276-4" target="_blank"><b>Submitted</b>, arXiv (2023)</a>
