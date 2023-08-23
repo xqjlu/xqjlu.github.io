@@ -11,6 +11,7 @@ redirect_from:
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate) 
 
+<ol style="padding-left: 40px;" reversed="" start="188">
 <!--2023-->
 <li>Glenna, D. M., Jana, A., **Qiang Xu**, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H.<sup>+</sup>, Jin Qian<sup>+</sup>, Snyder, S. W.<sup>+</sup>, "Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation", <a href="https://www.nature.com/articles/s41467-023-37295-1" target="_blank"><b>Submitted (2023)</b>" "</a></li><br>
 * "[Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems](https://doi.org/10.48550/arXiv.2308.09782)"  
