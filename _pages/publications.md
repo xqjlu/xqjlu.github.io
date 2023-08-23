@@ -11,9 +11,10 @@ redirect_from:
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate) 
 
-<ol style="padding-left: 40px;" reversed="" start="188">
 <!--2023-->
-<li>Glenna, D. M., Jana, A., **Qiang Xu**, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H.<sup>+</sup>, Jin Qian<sup>+</sup>, Snyder, S. W.<sup>+</sup>, "Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation", <a href="https://www.nature.com/articles/s41467-023-37295-1" target="_blank"><b>Submitted (2023)</b>" "</a></li><br>
+* "Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation"  
+Glenna, D. M., Jana, A., **Qiang Xu**, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H.<sup>+</sup>, Jin Qian<sup>+</sup>, Snyder, S. W.<sup>+</sup>  
+Submitted (2023)
 * "[Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems](https://doi.org/10.48550/arXiv.2308.09782)"  
 **Qiang Xu**, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>+</sup>  
 Submitted (2023)
@@ -21,7 +22,7 @@ Submitted (2023)
 Shane W. Devlin, Amanda A. Chen, Sasawat Jamnuch, **Qiang Xu**, Jin Qian<sup>+</sup>, Tod A. Pascal<sup>+</sup>, and Richard J. Saykally<sup>+</sup>  
 Submitted (2023)
 
-## 2022
+<!--2022-->
 * "[Chemical transformations and transport phenomena at interfaces](https://doi.org/10.1002/wcms.1639)"  
 Hongxia Hao<sup>+</sup>, Luis R. Pestana<sup>+</sup>, Jin Qian<sup>+</sup>, Meili Liu, **Qiang Xu**, and Teresa Head-Gordon<sup>+</sup>  
 ***WIREs: Comput. Mol. Sci.*** **e1639**, (2022)
