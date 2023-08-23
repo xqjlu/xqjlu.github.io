@@ -15,9 +15,16 @@ redirect_from:
 
   <style>
     p{
-      color: #00F;
+      color: #060;
       text-align: left;
+      font-weight: bold;
     }
+  </style>
+
+  <style>
+    a{
+      color: #00F;
+     }
   </style>
 
 </head>
