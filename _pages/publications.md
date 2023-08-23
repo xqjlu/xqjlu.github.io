@@ -67,7 +67,7 @@ redirect_from:
 
 <!--2018-->
 <li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang, and Yanming Ma, "Large-scale ab initio simulations for periodic system",  
-<a href=:https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank"><b>Comput. Phys. Commun.</b>, 233, 78-83 (2018)</a>
+<a href="https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank"><b>Comput. Phys. Commun.</b>, 233, 78-83 (2018)</a>
 </li><br>
 
 </ol>
