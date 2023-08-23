@@ -13,14 +13,8 @@ redirect_from:
 <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
 <meta http-equiv="expires" content="0">
 
-</style></head>
-
 <body>
 
-<div id="container" style="width:1120px">
-
-
-<hr align="left" color="#000000" width="1120">
 
 <a name="top"></a>
 
