@@ -13,14 +13,12 @@ redirect_from:
 <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
 <meta http-equiv="expires" content="0">
 
-<head>
   <style>
     p{
       color: #00F;
       text-align: left;
     }
   </style>
-</head>
 
 </head>
 
