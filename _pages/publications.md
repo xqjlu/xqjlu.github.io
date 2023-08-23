@@ -28,70 +28,70 @@ redirect_from:
 
 
 
-\+ Corresponding Author; a These authors contributed equally  
-<a href=https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdatetarget="_blank">Google Scholar</a>
 
 <div id="publists" class="en_pub">
 
 
 <ol style="padding-left: 40px;" reversed="" start="12">
+† Corresponding Author; a These authors contributed equally  
+<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
 <!--2023-->
 <b>2023</b>  
-<li>Drew M. Glenna, Amsita Jana, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao, Jin Qian, and Seth W. Snyder,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
+<li>Drew M. Glenna<sup>a</sup>, Amsita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
 <a href="https://doi.org/10.26434/chemrxiv-2023-w6nx6" target="_blank"><b>ChemRxiv</b>, (2023)</a>
 </li><br>
 
-<li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong, "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
+<li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>, "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
 <a href="https://doi.org/10.48550/arXiv.2308.09782)" target="_blank"><b>arXiv</b>, 2308.09782 (2023)</a>
 </li><br>
 
-<li>Shane W. Devlin, Amanda A. Chen, Sasawat Jamnuch, <b>Qiang Xu</b>, Jin Qian, Tod A. Pascal, and Richard J. Saykally, "Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air-water interface",
+<li>Shane W. Devlin, Amanda A. Chen, Sasawat Jamnuch, <b>Qiang Xu</b>, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>, "Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air-water interface",
 <a href="https://arxiv.org/abs/2301.05786)" target="_blank"><b>arXiv</b>, 2301.05786 (2023)</a>
 </li><br>
 
 <!--2022-->
 <b>2022</b>  
-<li>Hongxia Hao, Luis R. Pestana, Jin Qian, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon, "Chemical transformations and transport phenomena at interfaces",  
+<li>Hongxia Hao<sup>a,†</sup>, Luis R. Pestana<sup>a,†</sup>, Jin Qian<sup>a,†</sup>, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon<sup>†</sup>, "Chemical transformations and transport phenomena at interfaces",  
 <a href="https://doi.org/10.1002/wcms.1639" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1639 (2022)</a>
 </li><br>
 
-<li><b>Qiang Xu</b>, David Prendergast, and Jin Qian, "Real-space pseudopotential method for the calculation of 1s core-level binding energies",  
+<li><b>Qiang Xu</b>, David Prendergast, and Jin Qian<sup>†</sup>, "Real-space pseudopotential method for the calculation of 1s core-level binding energies",  
 <a href="https://doi.org/10.1021/acs.jctc.2c00474" target="_blank"><b>J. Chem. Theory Comput.</b>, 18, 9, 5471-5478 (2022)</a>
 </li><br>
 
-<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi, Yanchao Wang, and Yanming Ma, "Nonlocal pseudopotential energy density functional for orbital-free density functional theory",  
+<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi, Yanchao Wang<sup>†</sup>, and Yanming Ma, "Nonlocal pseudopotential energy density functional for orbital-free density functional theory",  
 <a href="https://doi.org/10.1038/s41467-022-29002-3" target="_blank"><b>Nat. Commun.</b>, 13, 1385 (2022)</a> 
 </li><br>
 
 <!--2020-->
 <b>2020</b>  
-<li><b>Qiang Xu</b>, Jian Lv, Yanchao Wang, and Yanming Ma, "Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",  
+<li><b>Qiang Xu</b>, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",  
 <a href="https://doi.org/10.1103/PhysRevB.101.045110" target="_blank"><b>Phys. Rev. B</b>, 101, 045110 (2020)</a>  
 </li><br>
 
 <!--2019-->
 <b>2019</b>  
-<li><b>Qiang Xu</b>, Yanchao Wang, and Yanming Ma, "Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",  
+<li><b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",  
 <a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank"><b>Phys. Rev. B</b>, 100, 205132 (2019)</a>  
 </li><br>
 
-<li><b>Qiang Xu</b>, Sheng Wang, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang, and Yanming Ma, "Ab Initio electronic structure calculations using a real-space Chebyshev- filtered subspace iteration method",  
+<li><b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Ab Initio electronic structure calculations using a real-space Chebyshev- filtered subspace iteration method",  
 <a href="https://doi.org/10.1088/1361-648X/ab2a63" target="_blank"><b>J. Phys.: Condens. Matter</b>, 31, 455901 (2019)</a>
 </li><br>
 
 <!--2018-->
 <b>2018</b>  
-<li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang, and Yanming Ma, "Large-scale ab initio simulations for periodic system",  
+<li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Large-scale ab initio simulations for periodic system",  
 <a href="https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank"><b>Comput. Phys. Commun.</b>, 233, 78-83 (2018)</a>
 </li><br>
 
 <!--2016-->
 <b>2016</b>  
-<li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang, and Yanming Ma, "O(NIogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
+<li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "O(NIogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
 <a href="https://doi.org/10.1063/1.4967319"  target="_blank"><b>J. Chem. Phys.</b>, 145, 184110 (2016)</a>
 </li><br>
 
-<li>Yuanyuan Zhou, <b>Qiang Xu</b>, Chunye Zhu, Qian Li, Hanyu Liu, Hui Wang, and John S. Tse, "Predicted lithium–iron compounds under high pressure",  
+<li>Yuanyuan Zhou, <b>Qiang Xu</b>, Chunye Zhu, Qian Li, Hanyu Liu, Hui Wang, and John S. Tse<sup>†</sup>, "Predicted lithium–iron compounds under high pressure",  
 <a href="https://doi.org/10.1039/C6RA11064A"  target="_blank"><b>RSC Adv.</b>, 6, 66721-66728 (2016)</a>
 </li><br>
 
