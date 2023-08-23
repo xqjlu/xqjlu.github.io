@@ -34,11 +34,6 @@ a:active {
 
 <div id="container" style="width:1120px">
 
-<div id="pubname" style="width:1120px ;text-align: right;">
-        <p></p>
-        <span class="cn_tit_one">Selected Publications</span>
-        <p></p>
-</div>
 
 <hr align="left" color="#000000" width="1120">
 
@@ -52,10 +47,8 @@ a:active {
 
 <ol style="padding-left: 40px;" reversed="" start="188">
 <!--2023-->
-<li>Glenna, D. M., Jana, A., Qiang Xu, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H., Jin Qian, Snyder, S. W.,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation", <a href="https://link.springer.com/article/10.1007/s11467-023-1276-4" target="_blank"><b>Submitted (2023)</b>, 43303, (2023)</a></li><br>
-* "[Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems](https://doi.org/10.48550/arXiv.2308.09782)"  
-**Qiang Xu**, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>+</sup>  
-Submitted (2023)
+<li>Glenna, D. M., Jana, A., Qiang Xu, Wang, Y., Meng, Y., Yang Y., Neupane M., Wang, L., Zhao, H., Jin Qian, Snyder, S. W.,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation", <a href="https://link.springer.com/article/10.1007/s11467-023-1276-4" target="_blank"><b>Submitted</b>, arXiv (2023)</a></li><br>
+<li>**Qiang Xu**, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong, "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems", <a href=https://doi.org/10.48550/arXiv.2308.09782)" target="_blank"><b>Submitted</b>, arXiv (2023)</a></li><br>
 * "[Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air-water interface](https://arxiv.org/abs/2301.05786)"  
 Shane W. Devlin, Amanda A. Chen, Sasawat Jamnuch, **Qiang Xu**, Jin Qian<sup>+</sup>, Tod A. Pascal<sup>+</sup>, and Richard J. Saykally<sup>+</sup>  
 Submitted (2023)
