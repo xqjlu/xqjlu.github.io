@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-In short, I am committed to developing fast and accurate computational theories and methods, which can be used to accurately describe the properties of nanoscale systems. Currently, I am working on three directions:
+In short, I am committed to developing fast and accurate computational theories and methods, which can be used to accurately describe the properties of mesoscale systems. Currently, I am working on three directions:
 
 **1. Velocity-Gauge Real-Time DFTB**
 
