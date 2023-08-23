@@ -34,6 +34,7 @@ redirect_from:
 
 <!--2023-->
 <b><big>2023</big></b>  
+<hr align="left" color="#000000">
 <li>Drew M. Glenna<sup>a</sup>, Amsita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
 <a href="https://doi.org/10.26434/chemrxiv-2023-w6nx6" target="_blank"><b>ChemRxiv</b>, (2023)</a>
 </li><br>
