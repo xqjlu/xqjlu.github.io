@@ -33,8 +33,10 @@ redirect_from:
 
 
 <ol style="padding-left: 40px;" reversed="" start="12">
-† Corresponding Author; a These authors contributed equally  
+† Corresponding Author; a These authors contributed equally
+ 
 <a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
+
 <!--2023-->
 <b>2023</b>  
 <li>Drew M. Glenna<sup>a</sup>, Amsita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
