@@ -52,7 +52,7 @@ redirect_from:
 <b>2022</b>  
 <hr align="left" color="#000000">
 <li>Hongxia Hao<sup>a,†</sup>, Luis R. Pestana<sup>a,†</sup>, Jin Qian<sup>a,†</sup>, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon<sup>†</sup>, "Chemical transformations and transport phenomena at interfaces",  
-<a href="https://doi.org/10.1002/wcms.1639" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1639 (2022)</a>
+<a href="https://doi.org/10.1002/wcms.1639" target="_blank"><b>Wiley Interdiscip. Rev.: Comput. Mol. Sci.</b>, e1639 (2022)</a>
 </li><br>
 
 <li><b>Qiang Xu</b>, David Prendergast, and Jin Qian<sup>†</sup>, "Real-space pseudopotential method for the calculation of 1s core-level binding energies",  
