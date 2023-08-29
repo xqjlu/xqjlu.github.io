@@ -12,7 +12,7 @@ In short, I am committed to developing fast and accurate computational theories 
 **1. Velocity-Gauge Real-Time DFTB**
 
 We first derived and implemented a new velocity-gauge real-time, time-dependent density functional tight-binding (VG-RT-TDDFTB) method in the open-source DFTB+ software package for probing electronic excitations in large, condensed matter systems. Our VG-RT-TDDFTB approach enables real-time electron dynamics simulations of large, periodic, condensed matter systems containing thousands of atoms with a favorable computational scaling as a function of system size. Taken together, our VG-RT-TDDFTB approach enables new electron dynamics simulations of complex systems that require large periodic supercells, such as crystal defects, complex surfaces, nanowires, and amorphous materials.
-* Theoretical Development. See Ref.[VG-RT-TDDFTB](https://doi.org/10.48550/arXiv.2308.09782)
+* Theoretical Development. See Ref.[VG-rtTDDFTB](https://doi.org/10.48550/arXiv.2308.09782)
 
 **2. Orbital-Free DFT**
 
