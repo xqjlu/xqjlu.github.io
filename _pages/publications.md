@@ -40,7 +40,7 @@ redirect_from:
 <a><b>In Preparation</b>, (2023)</a>
 </li><br>
 
-<li>Liping Liu, Cunha L., <b>Qiang Xu</b>, Xin H., Martin Head-Gordon, and Jin Qian<sup>†</sup>,"Real-space pseudopotential method for the calculation of third-row Elements x-ray photoelectron spectroscopic (XPS) signatures",  
+<li>Liping Liu, Cunha L., <b>Qiang Xu</b>, Xin H., Martin Head-Gordon, and Jin Qian<sup>†</sup>,"Real-space pseudopotential method for the calculation of third-row elements x-ray photoelectron spectroscopic (XPS) signatures",  
 <a><b>In Preparation</b>, (2023)</a>
 </li><br>
 
