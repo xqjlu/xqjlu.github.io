@@ -7,7 +7,7 @@ redirect_from:
   - /software.html
 ---
 
-**VG-RT-TDDFTB**: Velocity-Gauge Real-Time Time-Dependent Density Fucntional Tight-Binding
+**VG-rtTDDFTB**: Velocity-Gauge Real-Time Time-Dependent Density Fucntional Tight-Binding
   (Open source in the future)
   * Relevant publications
     1. [Q. Xu et al., Submitted (2023)](https://doi.org/10.48550/arXiv.2308.09782)
