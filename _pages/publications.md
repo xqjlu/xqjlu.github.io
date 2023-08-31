@@ -36,6 +36,10 @@ redirect_from:
 <!--2023-->
 <b>2023</b>  
 <hr align="left" color="#000000">
+<li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>, "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
+<a href="https://doi.org/10.48550/arXiv.2308.09782" target="_blank"><b>arXiv</b>, 2308.09782 (2023)</a>
+</li><br>
+
 <li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Nonlocal pseudopotential energy density functional for semiconductors",  
 <a><b>In Preparation</b>, (2023)</a>
 </li><br>
@@ -46,10 +50,6 @@ redirect_from:
 
 <li>Drew M. Glenna<sup>a</sup>, Amsita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
 <a href="https://doi.org/10.26434/chemrxiv-2023-w6nx6" target="_blank"><b>ChemRxiv</b>, (2023)</a>
-</li><br>
-
-<li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>, "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
-<a href="https://doi.org/10.48550/arXiv.2308.09782" target="_blank"><b>arXiv</b>, 2308.09782 (2023)</a>
 </li><br>
 
 <li>Shane W. Devlin, Amanda A. Chen, Sasawat Jamnuch, <b>Qiang Xu</b>, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>, "Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air-water interface",
