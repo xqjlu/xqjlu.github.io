@@ -41,7 +41,7 @@ redirect_from:
 </li><br>
 
 <li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Nonlocal pseudopotential energy density functional for semiconductors",  
-<a><b>In Preparation</b>, (2023)</a>
+<a><b>Submitted</b>, (2023)</a>
 </li><br>
 
 <li>Liping Liu, Cunha L., <b>Qiang Xu</b>, Xin H., Martin Head-Gordon, and Jin Qian<sup>†</sup>,"Real-space pseudopotential method for the calculation of third-row elements x-ray photoelectron spectroscopic (XPS) signatures",  
