@@ -39,7 +39,7 @@ Skills
   * Orbital-free/Kohn-Sham density functional theory
   * Differential Geometry, and Functional Analysis
 * Coding:
-  * Fortran90, e.g. ~40000 lines in total for ATLAS, ARES, and VG-RT-TDDFTB Packages
+  * Fortran90, e.g. ~40000 lines in total for ATLAS, ARES, and VG-rtTDDFTB Packages
   * Python
 
 Publications
