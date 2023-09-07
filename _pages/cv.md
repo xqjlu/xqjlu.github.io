@@ -17,17 +17,17 @@ Education
 
 Work experience
 ======
-* **2022/09 - now** : University of California, Riverside
+* **Sep. 2022 - now** : University of California, Riverside
   * Postdoc Researcher
   * Duties included: The development of velocity-gauge real-time TD-DFTB
   * Advisor: [Bryan M. Wong](https://www.bmwong-group.com/)
 
-* **2021/09 - now** : Lawrence Berkeley National Laboratory
+* **Oct. 2021 - now** : Lawrence Berkeley National Laboratory
   * Postdoc Researcher & Affiliate
   * Duties included: The development of core-level binding energies calculation method
   * Advisor: [Jin Qian](https://sites.google.com/lbl.gov/qiangrouppage/home?authuser=0)
 
-* **2020/07 - 2021/09** : Jilin University
+* **Jul. 2020 - Sep. 2021** : Jilin University
   * Postdoc Researcher under the first ‘Ding Xin’ scholarship
   * Duties included: The development of nonlocal pseudopotential method for orbital-free density functional theory
   * Advisor: [Yanchao Wang](http://iccms.jlu.edu.cn/info/1036/1040.htm)
