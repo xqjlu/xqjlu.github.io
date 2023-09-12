@@ -22,5 +22,6 @@ redirect_from:
   * Relevant publications
     1. [Q. Xu et al., Nat. Commun. (2022)](https://doi.org/10.1038/s41467-022-29002-3)
     1. [Q. Xu et al., Phys. Rev. B (2020)](https://doi.org/10.1103/PhysRevB.101.045110)
+    1. [Q. Xu et al., Phys. Rev. B (2019)](https://doi.org/10.1103/PhysRevB.100.205132)
     1. [X. Shao et al., Comput. Phys. Commun. (2018)](https://doi.org/10.1016/j.cpc.2018.07.009)
     1. [W. Mi et al., Comput. Phys. Commun. (2016)](https://doi.org/10.1016/j.cpc.2015.11.004)
