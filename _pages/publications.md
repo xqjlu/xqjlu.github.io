@@ -52,7 +52,7 @@ redirect_from:
 <a href="https://doi.org/10.26434/chemrxiv-2023-w6nx6" target="_blank"><b>ChemRxiv</b>, (2023)</a>
 </li><br>
 
-<li>Shane W. Devlin, Amanda A. Chen, Sasawat Jamnuch, <b>Qiang Xu</b>, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>, "Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air-water interface",
+<li>Shane W. Devlin<sup>a</sup>, Sasawat Jamnuch<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>, "Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air-water interface",
 <a href="https://doi.org/10.48550/arXiv.2301.05786" target="_blank"><b>J. Am. Chem. Soc.</b>, Accepted (2023)</a>
 </li><br>
 
