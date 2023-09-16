@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="14">
+<ol style="padding-left: 40px;" reversed="" start="11">
 
 † Corresponding Author; a These authors contributed equally 
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -42,18 +42,6 @@ redirect_from:
 
 <li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Nonlocal pseudopotential energy density functional for semiconductors",  
 <a><b>Submitted</b>, (2023)</a>
-</li><br>
-
-<li>Liping Liu, Cunha L., <b>Qiang Xu</b>, Xin H., Martin Head-Gordon, and Jin Qian<sup>†</sup>,"Real-space pseudopotential method for the calculation of third-row elements x-ray photoelectron spectroscopic (XPS) signatures",  
-<a><b>In Preparation</b>, (2023)</a>
-</li><br>
-
-<li>Drew M. Glenna<sup>a</sup>, Amsita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO2 Adsorption Material Evaluation",  
-<a href="https://doi.org/10.26434/chemrxiv-2023-w6nx6" target="_blank"><b>ChemRxiv</b>, (2023)</a>
-</li><br>
-
-<li>Shane W. Devlin<sup>a</sup>, Sasawat Jamnuch<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>, "Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air-water interface",
-<a href="https://doi.org/10.48550/arXiv.2301.05786" target="_blank"><b>J. Am. Chem. Soc.</b>, Accepted (2023)</a>
 </li><br>
 
 <!--2022-->
