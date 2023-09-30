@@ -37,7 +37,7 @@ redirect_from:
 <b>2023</b>  
 <hr align="left" color="#000000">
 <li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>, "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
-<a href="https://doi.org/10.48550/arXiv.2308.09782" target="_blank"><b>arXiv</b>, 2308.09782 (2023)</a>
+<a href="https://doi.org/10.48550/arXiv.2308.09782" target="_blank"><b>J. Chem. Theory Comput.</b>, Accpeted (2023)</a>
 </li><br>
 
 <li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Nonlocal pseudopotential energy density functional for semiconductors",  
