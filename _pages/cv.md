@@ -42,12 +42,12 @@ Skills
   * Fortran90, e.g. I've done ~40000 lines in total for ATLAS, ARES, and VG-rtTDDFTB Packages
   * Python
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -57,3 +57,4 @@ Teaching
 Service 
 ======
 * Updating
+-->  
