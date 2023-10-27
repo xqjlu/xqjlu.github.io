@@ -25,7 +25,7 @@ Work experience
 * **Oct. 2021 - now** : Lawrence Berkeley National Laboratory
   * Postdoc Researcher & Affiliate
   * Duties included: The development of core-level binding energies calculation method
-  * Advisor: Jin Qian
+  * Advisor: [Jin Qian](https://sites.google.com/lbl.gov/qiangrouppage/home?authuser=0)
 
 * **Jul. 2020 - Sep. 2021** : Jilin University
   * Postdoc Researcher under the first ‘Ding Xin’ scholarship
