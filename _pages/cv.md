@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Physics, Jilin University, 2011 - 2015
 * Ph.D in Condensed Matter Physics, Jilin University, 2015 - 2020
+  * Duties included: The development of kinetic energy density functionals for OF-DFT
   * Advisor: [Yanming Ma](http://mym.calypso.cn/)
 
 Work experience
@@ -29,7 +30,7 @@ Work experience
 
 * **Jul. 2020 - Sep. 2021** : Jilin University
   * Postdoc Researcher under the first ‘Ding Xin’ scholarship
-  * Duties included: The development of nonlocal pseudopotential method for orbital-free density functional theory
+  * Duties included: The development of nonlocal pseudopotential method for OF-DFT
   * Advisor: [Yanchao Wang](http://iccms.jlu.edu.cn/info/1036/1040.htm)
   
 Skills
