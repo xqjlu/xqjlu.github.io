@@ -10,7 +10,7 @@ redirect_from:
 **VG-rtTDDFTB**: Velocity-Gauge Real-Time Time-Dependent Density Fucntional Tight-Binding
   (Open source in the future)
   * Relevant publications
-    1. [Q. Xu et al., Submitted (2023)](https://doi.org/10.48550/arXiv.2308.09782)
+    1. [Q. Xu et al., J. Chem. Theory Comput. (2023)](https://doi.org/10.1021/acs.jctc.3c00689)
   
 **ARES**: Ab initio Real-Space Electronic Structures software
   (Not open source)

@@ -41,7 +41,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 </li><br>
 
 <li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>, "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
-<a href="https://doi.org/10.48550/arXiv.2308.09782" target="_blank"><b>J. Chem. Theory Comput.</b>, Accepted (2023)</a>
+<a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b>, (2023)</a>
 </li><br>
 
 <li><a><b>[Won't cooperate anymore]</b></a> Shane W. Devlin<sup>a</sup>, Sasawat Jamnuch<sup>a</sup>, <b>Qiang Xu</b>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>,"Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air–water interface",  
