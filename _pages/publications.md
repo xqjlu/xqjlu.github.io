@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="12">
+<ol style="padding-left: 40px;" reversed="" start="13">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -40,8 +40,14 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <a><b>Submitted</b>, (2023)</a>
 </li><br>
 
-<li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>, "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
+<li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
+"Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
 <a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b>, (2023)</a>
+</li><br>
+
+<li>Drew M. Glenna<sup>a</sup>, Asmita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,
+"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO<sub>2</sub> Adsorption Material Evaluation",  
+<a href="https://doi.org/10.26434/chemrxiv-2023-w6nx6" target="_blank"><b>J. Phys. Chem. Lett.</b>, Accpeted (2023)</a>
 </li><br>
 
 <li><a><b>[Won't cooperate anymore]</b></a> Shane W. Devlin<sup>a</sup>, Sasawat Jamnuch<sup>a</sup>, <b>Qiang Xu</b>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>,"Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air–water interface",  
