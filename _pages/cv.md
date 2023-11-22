@@ -14,7 +14,7 @@ Education
 * B.S. in Physics, Jilin University, 2011 - 2015
 * Ph.D in Condensed Matter Physics, Jilin University, 2015 - 2020
   * Duties included: The development of kinetic energy density functionals for OF-DFT
-  * Advisor: [Yanming Ma](http://mym.calypso.cn/)(Academician of Chinese Academy of Sciences)
+  * Advisor: [Yanming Ma](http://mym.calypso.cn/) (Academician of Chinese Academy of Sciences)
 
 Work experience
 ======
