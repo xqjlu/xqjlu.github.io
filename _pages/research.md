@@ -10,10 +10,11 @@ redirect_from:
 In short, I am committed to developing fast and accurate computational theories and methods, which can be used to accurately describe the properties of mesoscale systems. Currently, I am working on three directions:
 
 **1. Velocity-Gauge Real-Time DFTB**
-
+<p>
+<br/><img src='/images/dftb.png' align="right" width="232" height="308" hspace="5" vspace="5" >
 We first derived and implemented a new velocity-gauge real-time, time-dependent density functional tight-binding (VG-rtTDDFTB) method in the open-source DFTB+ software package for probing electronic excitations in large, condensed matter systems. Our VG-rtTDDFTB approach enables real-time electron dynamics simulations of large, periodic, condensed matter systems containing thousands of atoms with a favorable computational scaling as a function of system size. Taken together, our VG-rtTDDFTB approach enables new electron dynamics simulations of complex systems that require large periodic supercells, such as crystal defects, complex surfaces, nanowires, and amorphous materials.
+</p>
 * Theoretical Development. See Ref.[Q. Xu et al., JCTC (2023)](https://doi.org/10.1021/acs.jctc.3c00689)  
-<br/><img src='/images/dftb.png' width="232" height="308" >
 
 **2. Orbital-Free DFT**
 
