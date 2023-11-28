@@ -42,7 +42,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
 "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
-<a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b>, (2023)</a>
+<a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b>, 19, 22, 7989-7997 (2023)</a>
 </li><br>
 
 <li>Drew M. Glenna<sup>a</sup>, Asmita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,
