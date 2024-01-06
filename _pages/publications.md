@@ -33,13 +33,15 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <br>
 
 <br>
-<!--2023-->
-<b>2023</b>  
 <hr align="left" color="#000000">
+<!--2024-->
+<b>2024</b>  
 <li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Nonlocal pseudopotential energy density functional for semiconductors",  
 <a><b>Submitted</b>, (2023)</a>
 </li><br>
 
+<!--2023-->
+<b>2023</b>  
 <li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
 "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
 <a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b>, 19, 22, 7989-7997 (2023)</a>
