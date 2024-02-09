@@ -24,7 +24,7 @@ Orbital-free density functional theory (OF-DFT) is an electronic structure metho
   * LDAK-X functionals for isolated systems. See Ref.[Q. Xu et al., PRB (2020)](https://doi.org/10.1103/PhysRevB.101.045110).
 * Nonlocal Pesudopotential Energy Density Functional (NLPPF).  
   * For metals: See Ref.[Q. Xu et al., NC (2022)](https://doi.org/10.1038/s41467-022-29002-3).
-  * For Semiconductors:  See Ref. [C. Ma et al., Submitted (2023)](https://xqjlu.github.io/research/).
+  * For Semiconductors:  See Ref. [C. Ma et al., PRB (2024)](https://journals.aps.org/prb/accepted/ab07aKeeW451e207061b6a8662449a7224fbd89fd).
 
 **3. Kohn-Sham DFT**
 

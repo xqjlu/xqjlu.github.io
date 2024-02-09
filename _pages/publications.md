@@ -37,7 +37,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2024-->
 <b>2024</b>  
 <li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Nonlocal pseudopotential energy density functional for semiconductors",  
-<a><b>Phys. Rev. B</b>, Accepted (2024)</a>
+<a href="https://journals.aps.org/prb/accepted/ab07aKeeW451e207061b6a8662449a7224fbd89fd" target="_blank"><b>Phys. Rev. B</b>, Accepted, in production (2024)</a>
 </li><br>
 
 <!--2023-->
