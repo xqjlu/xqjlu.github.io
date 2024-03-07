@@ -37,7 +37,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2024-->
 <b>2024</b>  
 <li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Recent Advancements and Challenges in Orbital-Free Density Functional Theory",  
-<a href="https://xqjlu.github.io/publications" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>Invited Overview</a>
+<a href="https://xqjlu.github.io/publications" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, Invited Overview</a>
 </li><br>
 
 <li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Nonlocal pseudopotential energy density functional for semiconductors",  
