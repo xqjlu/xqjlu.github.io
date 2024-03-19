@@ -55,8 +55,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->  
   
 Service 
 ======
-* Updating
--->  
+* Reviewer for the following journals:
+  * J. Am. Chem. Soc.
+  * Ind. Eng. Chem. Res.
