@@ -62,3 +62,4 @@ Service
 * Reviewer for the following journals:
   * J. Am. Chem. Soc.
   * Ind. Eng. Chem. Res.
+  * Comput. Mater. Sci.
