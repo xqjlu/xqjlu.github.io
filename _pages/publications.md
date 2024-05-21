@@ -61,7 +61,8 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <a href="https://doi.org/10.1021/acs.jpclett.3c02711" target="_blank"><b>J. Phys. Chem. Lett.</b>, 14, 47, 10693-10699 (2023)</a>
 </li><br>
 
-<li><a><b>[Won't cooperate anymore]</b></a> Shane W. Devlin<sup>a</sup>, Sasawat Jamnuch<sup>a</sup>, <b>Qiang Xu</b>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>,"Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air–water interface",  
+<li><a><b>[Won't cooperate anymore]</b></a> Shane W. Devlin<sup>a</sup>, Sasawat Jamnuch<sup>a</sup>, <b>Qiang Xu</b>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>, 
+"Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air–water interface",  
 <a href="https://doi.org/10.1021/jacs.3c05093" target="_blank"><b>J. Am. Chem. Soc.</b>, 145, 41, 22384-22393 (2023)</a>
 </li><br>
 
