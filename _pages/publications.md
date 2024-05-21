@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="14">
+<ol style="padding-left: 40px;" reversed="" start="15">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -36,6 +36,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <hr align="left" color="#000000">
 <!--2024-->
 <b>2024</b>  
+<li>Cheng Ma, Min Chen, Yu Xie, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Nonlocal free-energy density functional for warm dense matter",  
+<a href="https://xqjlu.github.io/publications" target="_blank"><b>arXiv</b>, In press</a>
+</li><br>
+
 <li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Recent Advancements and Challenges in Orbital-Free Density Functional Theory",  
 <a href="https://xqjlu.github.io/publications" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, Accepted, In press</a>
 </li><br>
