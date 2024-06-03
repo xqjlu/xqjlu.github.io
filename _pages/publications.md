@@ -41,11 +41,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <a href="https://arxiv.org/pdf/2405.12527" target="_blank"><b>arXiv</b>, 2405.12527 (2024)</a>
 </li><br>
 
-<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Recent Advancements and Challenges in Orbital-Free Density Functional Theory",  
+<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Recent Advancements and Challenges in Orbital-Free Density Functional Theory",  
 <a href="https://xqjlu.github.io/publications" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1724, In press (2024)</a>
 </li><br>
 
-<li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,"Nonlocal pseudopotential energy density functional for semiconductors",  
+<li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Nonlocal pseudopotential energy density functional for semiconductors",  
 <a href="https://doi.org/10.1103/PhysRevB.109.075144" target="_blank"><b>Phys. Rev. B</b>, 109, 075144 (2024)</a>
 </li><br>
 
