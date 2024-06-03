@@ -61,5 +61,6 @@ Service
 ======
 * Reviewer for the following journals:
   * J. Am. Chem. Soc.
+  * Appl. Mater. Interfaces.
   * Ind. Eng. Chem. Res.
   * Comput. Mater. Sci.
