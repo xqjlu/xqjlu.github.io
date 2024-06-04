@@ -36,6 +36,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <hr align="left" color="#000000">
 <!--2024-->
 <b>2024</b>  
+<hr align="left" color="#000000">
 <li>Lantian Xue, <b>Qiang Xu</b><sup>†</sup>, Cheng Ma, Wenhui Mi, Yanchao Wang, Yu Xie<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Accelerating ab initio real-space electronic structure calculations for low-dimensional materials using an atom-sphere grid truncation method",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
@@ -62,6 +63,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <!--2023-->
 <b>2023</b>  
+<hr align="left" color="#000000">
 <li><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
 "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
 <a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b>, 19, 22, 7989-7997 (2023)</a>
