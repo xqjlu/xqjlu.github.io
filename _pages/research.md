@@ -26,7 +26,7 @@ Orbital-free density functional theory (OF-DFT) is an electronic structure metho
   * For metals: See Ref.[Q. Xu et al., NC (2022)](https://doi.org/10.1038/s41467-022-29002-3).
   * For semiconductors:  See Ref. [C. Ma et al., PRB (2024)](https://doi.org/10.1103/PhysRevB.109.075144).
 * Free Energy Density Funtional (FEDF)
-  * XWM-FEDF (XWMF) functional for warm dense matter. See Ref.[C. Ma et al., Preparing (2024)](https://xqjlu.github.io/research/). 
+  * XWM-FEDF (XWMF) functional for warm dense matter. See Ref.[C. Ma et al., arXiv (2024)](https://arxiv.org/pdf/2405.12527). 
 
 **3. Kohn-Sham DFT**
 
