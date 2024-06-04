@@ -36,9 +36,19 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <hr align="left" color="#000000">
 <!--2024-->
 <b>2024</b>  
+<li>Lantian Xue, <b>Qiang Xu</b><sup>†</sup>, Cheng Ma, Wenhui Mi, Yanchao Wang, Yu Xie<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Accelerating ab initio real-space electronic structure calculations for low-dimensional materials using an atom-sphere grid truncation method",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+</li><br>
+
 <li>Cheng Ma, Min Chen, Yu Xie, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Nonlocal free-energy density functional for warm dense matter",  
 <a href="https://arxiv.org/pdf/2405.12527" target="_blank"><b>arXiv</b>, 2405.12527 (2024)</a>
+</li><br>
+
+<li>Liping Liu, <b>Qiang Xu</b>, Leonardo dos Anjos Cunha, Hongliang Xin, Martin Head-Gordon, and Jin Qian<sup>†</sup>,
+"Real-space pseudopotential method for the calculation of third-row elements X-ray photoelectron spectroscopic signatures",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>arXiv</b>, 2405.12527 (2024)</a>
 </li><br>
 
 <li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
