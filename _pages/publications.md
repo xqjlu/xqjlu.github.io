@@ -41,7 +41,8 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <a href="https://arxiv.org/pdf/2405.12527" target="_blank"><b>arXiv</b>, 2405.12527 (2024)</a>
 </li><br>
 
-<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Recent Advancements and Challenges in Orbital-Free Density Functional Theory",  
+<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Recent advancements and challenges in orbital-free density functional theory",  
 <a href="https://doi.org/10.1002/wcms.1724" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1724, In press (2024)</a>
 </li><br>
 
@@ -57,7 +58,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 </li><br>
 
 <li>Drew M. Glenna<sup>a</sup>, Asmita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,
-"Carbon Capture: Theoretical Guidelines for Activated Carbon-based CO<sub>2</sub> Adsorption Material Evaluation",  
+"Carbon capture: theoretical guidelines for activated carbon-based CO<sub>2</sub> adsorption material evaluation",  
 <a href="https://doi.org/10.1021/acs.jpclett.3c02711" target="_blank"><b>J. Phys. Chem. Lett.</b>, 14, 47, 10693-10699 (2023)</a>
 </li><br>
 
