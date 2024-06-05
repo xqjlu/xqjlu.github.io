@@ -37,6 +37,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2024-->
 <b>2024</b>  
 <hr align="left" color="#000000">
+<li>Mahmut Sait Okyay, Min Choi, <b>Qiang Xu</b>, Adrian Perez Dieguez, Mauro Del Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
+"Unconventional nonlinear hall effects in insulating twisted multilayers",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+</li><br>
+
 <li>Lantian Xue, <b>Qiang Xu</b><sup>†</sup>, Cheng Ma, Wenhui Mi, Yanchao Wang, Yu Xie<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Accelerating ab initio real-space electronic structure calculations for low-dimensional materials using an atom-sphere grid truncation method",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
