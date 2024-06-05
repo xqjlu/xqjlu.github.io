@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="18">
+<ol style="padding-left: 40px;" reversed="" start="19">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -50,6 +50,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <li>Cheng Ma, Min Chen, Yu Xie, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Nonlocal free-energy density functional for warm dense matter",  
 <a href="https://arxiv.org/pdf/2405.12527" target="_blank"><b>arXiv</b>, 2405.12527 (2024)</a>
+</li><br>
+
+<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
+"Unusual high-temperature superconductivity triggered by metallic bonding in compressed H<sub>2</sub>-molecular-type hydride",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
 <li>Liping Liu, <b>Qiang Xu</b>, Leonardo dos Anjos Cunha, Hongliang Xin, Martin Head-Gordon, and Jin Qian<sup>†</sup>,
