@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="19">
+<ol style="padding-left: 40px;" reversed="" start="20">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -37,6 +37,14 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2024-->
 <b>2024</b>  
 <hr align="left" color="#000000">
+<li>Chongqing Yang<sup>a</sup>, Jianfang Liu<sup>a</sup>, Rebecca S. H. Khoo, Maged Abdelsamie,
+Miao Qi, He Li, Haiyan Mao, Sydney Hemenway, <b>Qiang Xu</b>, Yunfei Wang, Beihang Yu, Xinxin Liu,
+Liana M. Klivansky, Xiaodan Gu, Chenhui Zhu, Jeffrey A. Reimer, Ganglong Cui, Carolin M. Sutter-Fella,
+Jian Zhang, Gang Ren and Yi Liu<sup>†</sup>,
+"Bridging solid-state and solution-phase topochemical polymerization for high-precision polymer nanofibers",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+</li><br>
+
 <li>Mahmut Sait Okyay, Min Choi, <b>Qiang Xu</b>, Adrian Perez Dieguez, Mauro Del Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
 "Unconventional nonlinear hall effects in insulating twisted multilayers",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
