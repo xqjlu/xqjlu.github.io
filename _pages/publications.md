@@ -45,7 +45,7 @@ Jian Zhang, Gang Ren and Yi Liu<sup>†</sup>,
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
-<li>Mahmut Sait Okyay, Min Choi, <b>Qiang Xu</b>, Adrian Perez Dieguez, Mauro Del Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
+<li>Mahmut S. Okyay, Min Choi, <b>Qiang Xu</b>, Adrian P. Dieguez, Mauro D. Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
 "Unconventional nonlinear hall effects in insulating twisted multilayers",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
@@ -65,7 +65,7 @@ Jian Zhang, Gang Ren and Yi Liu<sup>†</sup>,
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
-<li>Liping Liu, <b>Qiang Xu</b>, Leonardo dos Anjos Cunha, Hongliang Xin, Martin Head-Gordon, and Jin Qian<sup>†</sup>,
+<li>Liping Liu, <b>Qiang Xu</b>, Leonardo dos A. Cunha, Hongliang Xin, Martin Head-Gordon, and Jin Qian<sup>†</sup>,
 "Real-space pseudopotential method for the calculation of third-row elements X-ray photoelectron spectroscopic signatures",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
