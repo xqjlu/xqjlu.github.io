@@ -32,7 +32,7 @@ Work experience
 * **Jul. 2020 - Sep. 2021** : Jilin University
   * Postdoc Researcher under the first ‘Ding Xin’ scholarship
   * Duties included: The development of nonlocal pseudopotential method for OF-DFT
-  * Advisor: [Yanchao Wang](http://iccms.jlu.edu.cn/info/1036/1040.htm)
+  * Advisor: [Yanchao Wang](https://klmsms.jlu.edu.cn/info/1020/1196.htm)
   
 Skills
 ======
