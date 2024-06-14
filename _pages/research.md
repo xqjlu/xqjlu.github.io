@@ -16,7 +16,7 @@ We first derived and implemented a new velocity-gauge real-time, time-dependent 
 </p>
 * Theoretical Development. See Ref.[Q. Xu et al., JCTC (2023)](https://doi.org/10.1021/acs.jctc.3c00689)  
 
-**2. Orbital-Free DFT** [Read more](https://doi.org/10.1002/wcms.1724)
+**2. Orbital-Free DFT** ([Read more](https://doi.org/10.1002/wcms.1724))
 
 Orbital-free density functional theory (OF-DFT) is an electronic structure method with a low computational cost that scales linearly with the number of simulated atoms, making it suitable for large-scale material simulations (1-100 million atoms, 1-100 nm). However, the accuracy of OF-DFT simulations depends strongly on the quality of the non-interacting kinetic energy and the electron-ion (or electron-pseudocore) interaction energy employed in the simulations. In the past few years, we derived the advanced kinetic energy density functionals for OF-DFT calculations. Furthermore, we first proposed the nonlocal pseudopotential method in this field, which defies the belief that nonlocal pseudopotentials are not applicable to OF-DFT, leading to the creation for an alternate theoretical framework of OF-DFT that works superior to the traditional approach.
 * Kinetic Energy Density Funtional (KEDF)
