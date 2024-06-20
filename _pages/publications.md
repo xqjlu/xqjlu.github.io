@@ -67,7 +67,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 
 <li>Liping Liu, <b>Qiang Xu</b>, Leonardo dos A. Cunha, Hongliang Xin, Martin Head-Gordon, and Jin Qian<sup>†</sup>,
 "Real-space pseudopotential method for the calculation of third-row elements X-ray photoelectron spectroscopic signatures",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>J. Chem. Theory Comput.</b>, In Press (2024)</a>
 </li><br>
 
 <li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
