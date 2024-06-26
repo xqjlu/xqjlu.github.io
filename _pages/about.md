@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc Researcher at [UC, Riverside](https://www.ucr.edu/) and affiliate at [Lawrence Berkeley National Laboratory](https://www.lbl.gov). My research focuses on the derivation, development, and implementation of efficient computational methods for condensed matter physics. I am one of the main developers of the VG-rtTDDFTB, ATLAS and ARES packages for large-scale simulations at the DFT level.  
+I am a Postdoc Researcher at [UC, Riverside](https://www.ucr.edu/). My research focuses on the derivation, development, and implementation of efficient computational methods for condensed matter physics. I am one of the main developers of the VG-rtTDDFTB, ATLAS and ARES packages for large-scale simulations at the DFT level.  
 Email: <qiangx@ucr.edu> / <xuq@lbl.gov>
 
 Research Interests
