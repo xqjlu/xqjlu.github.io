@@ -26,7 +26,7 @@ Work experience
 * **Oct. 2021 - Sep. 2024** : Lawrence Berkeley National Laboratory
   * Postdoc Researcher & Affiliate
   * Duties included: The development of core-level binding energies calculation method
-  * Advisor: Oliver Gessner and Jin Qian 
+  <!--* Advisor: Oliver Gessner and Jin Qian -->
 <!--[Jin Qian](https://sites.google.com/lbl.gov/qiangrouppage/home?authuser=0)-->
 
 * **Jul. 2020 - Sep. 2021** : Jilin University
