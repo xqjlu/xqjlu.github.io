@@ -23,7 +23,7 @@ Work experience
   * Duties included: The development of velocity-gauge real-time TD-DFTB
   * Advisor: [Bryan M. Wong](https://www.bmwong-group.com/)
 
-* **Oct. 2021 - Sep. 2024** : Lawrence Berkeley National Laboratory
+* **Oct. 2021 - Jul. 2024** : Lawrence Berkeley National Laboratory
   * Postdoc Researcher & Affiliate
   * Duties included: The development of core-level binding energies calculation method
   <!--* Advisor: Oliver Gessner and Jin Qian -->
