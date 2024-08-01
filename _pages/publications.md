@@ -62,7 +62,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 </li><br>
 
 <li>Cheng Ma, Min Chen, Yu Xie, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
-"Nonlocal free-energy density functional for warm dense matter",  
+"Nonlocal free-energy density functional for a broad range of warm dense matter simulations",  
 <a href="https://arxiv.org/pdf/2405.12527" target="_blank"><b>Phys. Rev. B</b>, In Press(2024)</a>
 </li><br>
 
