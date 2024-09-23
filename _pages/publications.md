@@ -38,7 +38,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <b>2024</b>  
 <hr align="left" color="#000000">
 <li>Pengye Liu, <b>Qiang Xu</b>, Zhao Liu<sup>†</sup>, Tian Cui<sup>†</sup>,
-"Superconducting and Superionic Behaviors of Unusual sp3-hybridized Hydrogen in H5-regular Tetrahedral under High Pressure",  
+"Superconducting and Superionic Behaviors of Unusual sp<sup>3</sup>-hybridized Hydrogen in H<sub>5</sub>-regular Tetrahedral under High Pressure",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
