@@ -67,7 +67,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 
 <li>Lantian Xue, <b>Qiang Xu</b><sup>†</sup>, Cheng Ma, Wenhui Mi, Yanchao Wang, Yu Xie<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Accelerating ab initio real-space electronic structure calculations for low-dimensional materials using an atom-sphere grid truncation method",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Phys. Rev. B</b>, Accepted, In Press (2024)</a>
 </li><br>
 
 <li><a><b>[Editors' Suggestion]</b></a> Cheng Ma, Min Chen, Yu Xie, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
