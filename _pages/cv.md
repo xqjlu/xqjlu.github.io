@@ -13,14 +13,14 @@ Education
 ======
 * B.S. in Physics, Jilin University, 2011 - 2015
 * Ph.D in Condensed Matter Physics, Jilin University, 2015 - 2020
-  * Duties included: The development of kinetic energy density functionals for OF-DFT
+  * Duties included: The development of kinetic energy density functionals for OFDFT
   * Advisor: [Yanming Ma](http://mym.calypso.cn/) (Academician of Chinese Academy of Sciences)
 
 Work experience
 ======
 * **Sep. 2022 - now** : University of California, Riverside
   * Postdoc Researcher
-  * Duties included: The development of velocity-gauge real-time TD-DFTB
+  * Duties included: The development of velocity-gauge real-time TDDFTB
   * Advisor: [Bryan M. Wong](https://www.bmwong-group.com/)
 
 * **Oct. 2021 - Jul. 2024** : Lawrence Berkeley National Laboratory
@@ -31,7 +31,7 @@ Work experience
 
 * **Jul. 2020 - Sep. 2021** : Jilin University
   * Postdoc Researcher under the first ‘Ding Xin’ scholarship
-  * Duties included: The development of nonlocal pseudopotential method for OF-DFT
+  * Duties included: The development of nonlocal pseudopotential method for OFDFT
   * Advisor: [Yanchao Wang](https://klmsms.jlu.edu.cn/info/1020/1196.htm)
   
 Skills
