@@ -44,7 +44,22 @@ Skills
   * Fortran90, e.g. I've done ~40000 lines in total for ATLAS, ARES, and VG-rtTDDFTB Packages
   * Python
 
-<!--Publications
+Selected Publications
+======
+* <b>Qiang Xu</b><sup>†</sup>, Daniel Weinberg, Mahmut S. Okyay, Min Choi, Mauro D. Ben, and Bryan M. Wong<sup>†</sup>,
+"Photo-induced electron-nuclear dynamics of fullerene and its monolayer networks in solvated environments",
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>In press</b>, (2024)</a>
+
+* <b>Qiang Xu</b>, Cheng Ma, Wenhui Mi, Yanchao Wang<sup>†</sup>, and Yanming Ma, 
+"Nonlocal pseudopotential energy density functional for orbital-free density functional theory",
+<a href="https://doi.org/10.1038/s41467-022-29002-3" target="_blank"><b>Nat. Commun.</b>, 13, 1385 (2022)</a> 
+
+* <b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Recent advancements and challenges in orbital-free density functional theory",
+<a href="https://doi.org/10.1002/wcms.1724" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1724 (2024)</a>
+
+<!--
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
