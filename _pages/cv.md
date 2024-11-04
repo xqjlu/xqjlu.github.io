@@ -56,13 +56,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->  
-Awards
+
+Awards 
 ======
-  * 2024/10    The 7th SoCal TheoChem Poster Award
-  * 2020-2021  The first "Ding Xin" Scholarship
-  * 2015-2016  National Scholarship and First-class Scholarship (Ranks No.1)
-  * 2014-2015  National Encouragement Scholarship (Top 10%)
-  * 2013-2014  Second Prize in Mathematical Modeling Competition
+* 2024/10    The 7th SoCal TheoChem Poster Award
+* 2020-2021  The first "Ding Xin" Scholarship
+* 2015-2016  National Scholarship and First-class Scholarship (Ranks No.1)
+* 2014-2015  National Encouragement Scholarship (Top 10%)
+* 2013-2014  Second Prize in Mathematical Modeling Competition
 
 Service 
 ======
