@@ -58,6 +58,10 @@ Selected Publications
 "Recent advancements and challenges in orbital-free density functional theory",
 <a href="https://doi.org/10.1002/wcms.1724" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1724 (2024)</a>
 
+* <b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
+"Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",
+<a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b>, 19, 22, 7989-7997 (2023)</a>
+
 * <b>Qiang Xu</b>, David Prendergast, and Jin Qian<sup>†</sup>,
 "Real-space pseudopotential method for the calculation of 1s core-level binding energies",
 <a href="https://doi.org/10.1021/acs.jctc.2c00474" target="_blank"><b>J. Chem. Theory Comput.</b>, 18, 9, 5471-5478 (2022)</a>
