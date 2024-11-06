@@ -58,6 +58,14 @@ Selected Publications
 "Recent advancements and challenges in orbital-free density functional theory",
 <a href="https://doi.org/10.1002/wcms.1724" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1724 (2024)</a>
 
+* <b>Qiang Xu</b>, David Prendergast, and Jin Qian<sup>†</sup>,
+"Real-space pseudopotential method for the calculation of 1s core-level binding energies",
+<a href="https://doi.org/10.1021/acs.jctc.2c00474" target="_blank"><b>J. Chem. Theory Comput.</b>, 18, 9, 5471-5478 (2022)</a>
+
+* <b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup> 
+"Ab Initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method", 
+<a href="https://doi.org/10.1088/1361-648X/ab2a63" target="_blank"><b>J. Phys.: Condens. Matter</b>, 31, 455901 (2019)</a>
+
 <!--
 Publications
 ======

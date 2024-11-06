@@ -115,51 +115,60 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <!--2022-->
 <b>2022</b>  
 <hr align="left" color="#000000">
-<li>Hongxia Hao<sup>a,†</sup>, Luis R. Pestana<sup>a,†</sup>, Jin Qian<sup>a,†</sup>, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon<sup>†</sup>, "Chemical transformations and transport phenomena at interfaces",  
+<li>Hongxia Hao<sup>a,†</sup>, Luis R. Pestana<sup>a,†</sup>, Jin Qian<sup>a,†</sup>, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon<sup>†</sup>, 
+"Chemical transformations and transport phenomena at interfaces",  
 <a href="https://doi.org/10.1002/wcms.1639" target="_blank"><b>WIREs: Comput. Mol. Sci.</b>, e1639 (2022)</a>
 </li><br>
 
-<li><b>Qiang Xu</b>, David Prendergast, and Jin Qian<sup>†</sup>, "Real-space pseudopotential method for the calculation of 1s core-level binding energies",  
+<li><b>Qiang Xu</b>, David Prendergast, and Jin Qian<sup>†</sup>, 
+"Real-space pseudopotential method for the calculation of 1s core-level binding energies",  
 <a href="https://doi.org/10.1021/acs.jctc.2c00474" target="_blank"><b>J. Chem. Theory Comput.</b>, 18, 9, 5471-5478 (2022)</a>
 </li><br>
 
-<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi, Yanchao Wang<sup>†</sup>, and Yanming Ma, "Nonlocal pseudopotential energy density functional for orbital-free density functional theory",  
+<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi, Yanchao Wang<sup>†</sup>, and Yanming Ma, 
+"Nonlocal pseudopotential energy density functional for orbital-free density functional theory",  
 <a href="https://doi.org/10.1038/s41467-022-29002-3" target="_blank"><b>Nat. Commun.</b>, 13, 1385 (2022)</a> 
 </li><br>
 
 <!--2020-->
 <b>2020</b>  
 <hr align="left" color="#000000">
-<li><b>Qiang Xu</b>, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",  
+<li><b>Qiang Xu</b>, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
+"Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",  
 <a href="https://doi.org/10.1103/PhysRevB.101.045110" target="_blank"><b>Phys. Rev. B</b>, 101, 045110 (2020)</a>  
 </li><br>
 
 <!--2019-->
 <b>2019</b>  
 <hr align="left" color="#000000">
-<li><b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",  
+<li><b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
+"Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",  
 <a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank"><b>Phys. Rev. B</b>, 100, 205132 (2019)</a>  
 </li><br>
 
-<li><b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Ab Initio electronic structure calculations using a real-space Chebyshev- filtered subspace iteration method",  
+<li><b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
+"Ab Initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method",  
 <a href="https://doi.org/10.1088/1361-648X/ab2a63" target="_blank"><b>J. Phys.: Condens. Matter</b>, 31, 455901 (2019)</a>
 </li><br>
 
 <!--2018-->
 <b>2018</b>  
 <hr align="left" color="#000000">
-<li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Large-scale ab initio simulations for periodic system",  
+<li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
+"Large-scale ab initio simulations for periodic system",  
 <a href="https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank"><b>Comput. Phys. Commun.</b>, 233, 78-83 (2018)</a>
 </li><br>
 
 <!--2016-->
 <b>2016</b>  
 <hr align="left" color="#000000">
-<li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "O(NIogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
+<li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
+"O(NIogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
 <a href="https://doi.org/10.1063/1.4967319"  target="_blank"><b>J. Chem. Phys.</b>, 145, 184110 (2016)</a>
 </li><br>
 
-<li>Yuanyuan Zhou, <b>Qiang Xu</b>, Chunye Zhu, Qian Li, Hanyu Liu, Hui Wang<sup>†</sup>, and John S. Tse<sup>†</sup>, "Predicted lithium–iron compounds under high pressure",  
+<li>Yuanyuan Zhou, <b>Qiang Xu</b>, Chunye Zhu, Qian Li, Hanyu Liu, Hui Wang<sup>†</sup>, and John S. Tse<sup>†</sup>, 
+"Predicted lithium–iron compounds under high pressure",  
 <a href="https://doi.org/10.1039/C6RA11064A"  target="_blank"><b>RSC Adv.</b>, 6, 66721-66728 (2016)</a>
 </li><br>
 
