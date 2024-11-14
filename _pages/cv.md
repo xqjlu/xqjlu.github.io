@@ -62,9 +62,9 @@ Selected Publications
 "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",
 <a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b>, 19, 22, 7989-7997 (2023)</a>
 
-* <b>Qiang Xu</b>, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
-"Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",
-<a href="https://doi.org/10.1103/PhysRevB.101.045110" target="_blank"><b>Phys. Rev. B</b>, 101, 045110 (2020)</a>
+* <b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
+"Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",  
+<a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank"><b>Phys. Rev. B</b>, 100, 205132 (2019)</a>  
 
 * <b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup> 
 "Ab Initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method", 
