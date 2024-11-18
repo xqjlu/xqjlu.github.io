@@ -67,7 +67,7 @@ Selected Publications
 <a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank"><b>Phys. Rev. B</b>, 100, 205132 (2019)</a>  
 
 * <b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup> 
-"Ab Initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method", 
+"Ab initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method", 
 <a href="https://doi.org/10.1088/1361-648X/ab2a63" target="_blank"><b>J. Phys.: Condens. Matter</b>, 31, 455901 (2019)</a>
 
 <!--

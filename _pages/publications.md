@@ -147,7 +147,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 </li><br>
 
 <li><b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
-"Ab Initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method",  
+"Ab initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method",  
 <a href="https://doi.org/10.1088/1361-648X/ab2a63" target="_blank"><b>J. Phys.: Condens. Matter</b>, 31, 455901 (2019)</a>
 </li><br>
 
@@ -163,7 +163,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <b>2016</b>  
 <hr align="left" color="#000000">
 <li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
-"O(NIogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
+"O(NlogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
 <a href="https://doi.org/10.1063/1.4967319"  target="_blank"><b>J. Chem. Phys.</b>, 145, 184110 (2016)</a>
 </li><br>
 
