@@ -49,7 +49,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li><b>Qiang Xu</b><sup>†</sup>, Daniel Weinberg, Mahmut S. Okyay, Min Choi, Mauro D. Ben, and Bryan M. Wong<sup>†</sup>,
 "Photo-induced electron-nuclear dynamics of fullerene and its monolayer networks in solvated environments",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>J. Am. Chem. Soc.</b>, Accepted, In press (2024)</a>
 </li><br>
 
 <li>Chongqing Yang<sup>a</sup>, Jianfang Liu<sup>a</sup>, Rebecca S. H. Khoo, Maged Abdelsamie,
