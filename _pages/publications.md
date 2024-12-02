@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="23">
+<ol style="padding-left: 40px;" reversed="" start="24">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -37,6 +37,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2024-->
 <b>2024</b>  
 <hr align="left" color="#000000">
+<li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, Yanming Ma,
+"Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in OFDFT calculations",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+</li><br>
+
 <li>Pengye Liu, <b>Qiang Xu</b>, Zhao Liu<sup>†</sup>, Tian Cui<sup>†</sup>,
 "Superconducting and Superionic Behaviors of Unusual sp<sup>3</sup>-hybridized Hydrogen in H<sub>5</sub>-regular Tetrahedral under High Pressure",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
