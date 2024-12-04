@@ -102,7 +102,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <!--2023-->
 <b>2023</b>  
 <hr align="left" color="#000000">
-<li><a><b>[Editors' Suggestion]</b></a><b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
+<li><a><b>[Cover]</b></a> <b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
 "Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
 <a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b>, 19, 22, 7989-7997 (2023)</a>
 </li><br>
