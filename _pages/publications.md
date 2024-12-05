@@ -39,7 +39,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <hr align="left" color="#000000">
 <li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, Yanming Ma,
 "Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in orbital-free density functional calculations",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+<a href="https://arxiv.org/abs/2412.02959" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
 <li>Pengye Liu, <b>Qiang Xu</b>, Zhao Liu<sup>†</sup>, Tian Cui<sup>†</sup>,
