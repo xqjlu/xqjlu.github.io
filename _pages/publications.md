@@ -60,6 +60,11 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
+<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
+"Unusual high-temperature superconductivity triggered by metallic bonding in compressed H<sub>2</sub>-molecular-type hydride",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+</li><br>
+
 <li>Mahmut S. Okyay, Min Choi, <b>Qiang Xu</b>, Adrian P. Dieguez, Mauro D. Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
 "Unconventional nonlinear hall effects in insulating twisted multilayers",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>npj 2D Mater. Appl.</b>, Accepted (2024)</a>
@@ -78,11 +83,6 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <li><a><b>[Editors' Suggestion]</b></a> Cheng Ma, Min Chen, Yu Xie, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Nonlocal free-energy density functional for a broad range of warm dense matter simulations",  
 <a href="https://doi.org/10.1103/PhysRevB.110.085113" target="_blank"><b>Phys. Rev. B</b>, 110, 085113 (2024)</a>
-</li><br>
-
-<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
-"Unusual high-temperature superconductivity triggered by metallic bonding in compressed H<sub>2</sub>-molecular-type hydride",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
 <li>Liping Liu, <b>Qiang Xu</b>, Leonardo dos A. Cunha, Hongliang Xin, Martin Head-Gordon, and Jin Qian<sup>†</sup>,
