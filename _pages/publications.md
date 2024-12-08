@@ -67,7 +67,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 
 <li>Mahmut S. Okyay, Min Choi, <b>Qiang Xu</b>, Adrian P. Dieguez, Mauro D. Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
 "Unconventional nonlinear hall effects in insulating twisted multilayers",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>npj 2D Mater. Appl.</b>, Accepted (2024)</a>
 </li><br>
 
 <li>Lantian Xue, <b>Qiang Xu</b><sup>†</sup>, Cheng Ma, Wenhui Mi, Yanchao Wang, Yu Xie<sup>†</sup>, and Yanming Ma<sup>†</sup>,
