@@ -72,7 +72,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 
 <li><b>Qiang Xu</b><sup>†</sup>, Daniel Weinberg, Mahmut S. Okyay, Min Choi, Mauro D. Ben, and Bryan M. Wong<sup>†</sup>,
 "Photoinduced electron-nuclear dynamics of fullerene and its monolayer networks in solvated environments",  
-<a href="https://doi.org/10.1021/jacs.4c12952" target="_blank"><b>J. Am. Chem. Soc.</b>, Accepted, In press (2024)</a>
+<a href="https://doi.org/10.1021/jacs.4c12952" target="_blank"><b>J. Am. Chem. Soc.</b>, 146, 35313-35320 (2024)</a>
 </li><br>
 
 <li>Lantian Xue, <b>Qiang Xu</b><sup>†</sup>, Cheng Ma, Wenhui Mi, Yanchao Wang, Yu Xie<sup>†</sup>, and Yanming Ma<sup>†</sup>,
