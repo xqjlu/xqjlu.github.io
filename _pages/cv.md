@@ -48,7 +48,7 @@ Selected Publications
 ======
 * <b>Qiang Xu</b><sup>†</sup>, Daniel Weinberg, Mahmut S. Okyay, Min Choi, Mauro D. Ben, and Bryan M. Wong<sup>†</sup>,
 "Photoinduced electron-nuclear dynamics of fullerene and its monolayer networks in solvated environments",
-<a href="https://doi.org/10.1021/jacs.4c12952" target="_blank"><b>J. Am. Chem. Soc.</b>, 146, 35313-35320 (2024)</a>
+<a href="https://doi.org/10.1021/jacs.4c12952" target="_blank"><b>J. Am. Chem. Soc.</b>, 146, 51, 35313-35320 (2024)</a>
 
 * <b>Qiang Xu</b>, Cheng Ma, Wenhui Mi, Yanchao Wang<sup>†</sup>, and Yanming Ma, 
 "Nonlocal pseudopotential energy density functional for orbital-free density functional theory",
