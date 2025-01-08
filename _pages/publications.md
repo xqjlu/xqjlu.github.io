@@ -34,6 +34,15 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <br>
 <!--hr align="left" color="#000000"-->
+<!--2025-->
+<b>2025</b>
+<hr align="left" color="#000000">
+<li>Mahmut S. Okyay, Min Choi, <b>Qiang Xu</b>, Adrian P. Dieguez, Mauro D. Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
+"Unconventional nonlinear hall effects in insulating twisted multilayers",  
+<a href="https://doi.org/10.1038/s41699-024-00520-6" target="_blank"><b>npj 2D Mater. Appl.</b>, 9, 1 (2025)</a>
+</li><br>
+
+
 <!--2024-->
 <b>2024</b>  
 <hr align="left" color="#000000">
@@ -63,11 +72,6 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
 "Unusual high-temperature superconductivity triggered by metallic bonding in compressed H<sub>2</sub>-molecular-type hydride",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
-</li><br>
-
-<li>Mahmut S. Okyay, Min Choi, <b>Qiang Xu</b>, Adrian P. Dieguez, Mauro D. Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
-"Unconventional nonlinear hall effects in insulating twisted multilayers",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>npj 2D Mater. Appl.</b>, Accepted (2024)</a>
 </li><br>
 
 <li><b>Qiang Xu</b><sup>†</sup>, Daniel Weinberg, Mahmut S. Okyay, Min Choi, Mauro D. Ben, and Bryan M. Wong<sup>†</sup>,
