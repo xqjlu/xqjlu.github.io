@@ -25,7 +25,7 @@ My research focuses on the development of novel theoretical and computational me
 
 Developed Packages
 ======
-* VG-rtTDDFTB: Velocity-Gauge Real-Time Time-Dependent Density Fucntional Tight-Binding for large-scale electron dynamics (1000+ atoms).
+* VG-rtTDDFTB: Velocity-Gauge Real-Time Time-Dependent Density Fucntional Tight-Binding for large-scale electron dynamics (1000+ atoms and ~10 ps excited dynamics).
 * ARES : Ab initio Real-Space Electronic Structures calculation method (1-10k atoms).
 * [ATLAS](http://atlas-ch.cn/): Ab initio orbiTaL-free density functionAl theory Software (1-100 million atoms).  
 [Read more >>](https://xqjlu.github.io/software/)
