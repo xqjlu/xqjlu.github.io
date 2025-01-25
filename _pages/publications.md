@@ -76,7 +76,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 </li><br>
 
 <li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
-"Unusual high-temperature superconductivity triggered by metallic bonding in compressed H<sub>2</sub>-molecular-type hydride",  
+"Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
