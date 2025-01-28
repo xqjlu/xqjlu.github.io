@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 * [ATLAS](http://atlas-ch.cn)
 * [CALYPSO](http://www.calypso.cn)
+* [QE](https://www.quantum-espresso.org)
+* [QEpy](https://gitlab.com/shaoxc/qepy)
+* [TDAP](http://tdap.iphy.ac.cn)
+* [OCTOPUS](https://octopus-code.org)
 * [Mathcha](https://www.mathcha.io)
 
 <h2>AI Tools</h2>
