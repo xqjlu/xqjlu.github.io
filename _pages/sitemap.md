@@ -19,6 +19,7 @@ author_profile: true
 <h2>AI Tools</h2>
 * [ChatGPT](http://chatgpt.com)
 * [Deepseek](https://www.deepseek.com)
+* [TXYZ](https://www.txyz.ai)
 
 <h2>Online LaTeX Editors</h2>
 * [Slager](http://slager.link)
