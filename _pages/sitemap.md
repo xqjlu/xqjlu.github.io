@@ -11,6 +11,7 @@ author_profile: true
 * [QE](https://www.quantum-espresso.org)
 * [QEpy](https://gitlab.com/shaoxc/qepy)
 * [TDAP](http://tdap.iphy.ac.cn)
+* [PARSEC](https://real-space.org)
 * [OCTOPUS](https://octopus-code.org)
 * [DFTB](https://dftb.org)
 * [DFTB+](https://dftbplus.org)
