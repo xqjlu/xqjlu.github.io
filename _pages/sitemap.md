@@ -12,6 +12,8 @@ author_profile: true
 * [QEpy](https://gitlab.com/shaoxc/qepy)
 * [TDAP](http://tdap.iphy.ac.cn)
 * [OCTOPUS](https://octopus-code.org)
+* [DFTB](https://dftb.org)
+* [DFTB+](https://dftbplus.org)
 * [Mathcha](https://www.mathcha.io)
 
 <h2>AI Tools</h2>
