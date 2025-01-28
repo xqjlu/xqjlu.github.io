@@ -6,7 +6,23 @@ author_profile: true
 ---
 
 {% include base_path %}
-
 * [ATLAS](http://atlas-ch.cn)
+* [CALYPSO](http://www.calypso.cn)
+* [Mathcha](https://www.mathcha.io)
+
+<h2>AI Tools</h2>
 * [ChatGPT](http://chatgpt.com)
 * [Deepseek](https://www.deepseek.com)
+
+<h2>Online LaTeX Editors</h2>
+* [Slager](http://slager.link)
+* [Overleaf](https://www.overleaf.com)
+
+<h2>Database</h2>
+* [GTOs](https://www.basissetexchange.org)
+* [ONCVPSP](http://www.mat-simresearch.com)
+* [OQMD](https://oqmd.org)
+* [NOMAD](https://nomad-lab.eu/nomad-lab/)
+* [PubChem](https://pubchem.ncbi.nlm.nih.gov)
+* [Materials Project](https://next-gen.materialsproject.org)
+* [Cambridge Energy Landscape Database](https://www-wales.ch.cam.ac.uk/CCD.html)
