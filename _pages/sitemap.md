@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 * [ATLAS](http://atlas-ch.cn)
 * [CALYPSO](http://www.calypso.cn)
+* [ABACUS](http://abacus.ustc.edu.cn/main.htm)
 * [QE](https://www.quantum-espresso.org)
 * [QEpy](https://gitlab.com/shaoxc/qepy)
 * [TDAP](http://tdap.iphy.ac.cn)
