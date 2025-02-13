@@ -36,6 +36,12 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--hr align="left" color="#000000"-->
 <!--2025-->
 <b>2025</b>
+
+<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
+"Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Sci. Adv.</b>, (2025)</a>
+</li><br>
+
 <hr align="left" color="#000000">
 <li>Lantian Xue, Chennan Song, Miaomiao Jian<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yuhao Fu, Pengyue Gao<sup>†</sup>, Yu Xie,
 "Theoretical investigation of electronic structure and carrier mobility in boron antimonide nanotubes",  
@@ -72,11 +78,6 @@ Miao Qi, He Li, Haiyan Mao, Sydney Hemenway, <b>Qiang Xu</b>, Yunfei Wang, Beiha
 Liana M. Klivansky, Xiaodan Gu, Chenhui Zhu, Jeffrey A. Reimer, Ganglong Cui, Carolin M. Sutter-Fella,
 Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 "Bridging solid-state and solution-phase topochemical polymerization for high-precision polymer nanofibers",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
-</li><br>
-
-<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
-"Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
