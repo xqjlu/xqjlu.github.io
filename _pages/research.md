@@ -35,6 +35,7 @@ We presented a Kohn-Sham DFT based calculation package (ARES), utilizing real-sp
 * ARES Development. See Ref.[Q. Xu et al., JPCM (2019)](https://doi.org/10.1088/1361-648X/ab2a63)
   * Massively parallel is on going
 * Real-Space Pesudopotential Core-Level Binding Energies Calculation Method (CEBE). See Ref.[Q. Xu et al., JCTC (2022)](https://doi.org/10.1021/acs.jctc.2c00474).
+
 <!--
   * Traditional all-electron method
     * (o) High accuracy
