@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-In short, I am committed to developing fast and accurate computational theories and methods, which can be used to accurately describe the properties of mesoscale systems. Currently, I am working on three directions:
+In short, I am committed to developing fast and accurate computational theories and methods, which can be used to accurately describe the properties of mesoscale systems. I am also interested in theoretical modeling of condensed matter phenomena. Therefore, I am mainly working on four directions:
 
 **1. Velocity-Gauge Real-Time DFTB**
 <p>
@@ -50,3 +50,6 @@ We presented a Kohn-Sham DFT based calculation package (ARES), utilizing real-sp
     * (o) non-periodic boundary condtions for charged final-state calculation
     * (o) High computational efficiency for large-scale systems
 -->
+
+**3. Theoretical Model**
+* Mechanism of superconductivity in molecular hydrides. See Ref.[Liu et al., Sci. Adv. (2025)](https://xqjlu.github.io/publications/)
