@@ -37,6 +37,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2025-->
 <b>2025</b>
 <hr align="left" color="#000000">
+
 <li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
 "Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Sci. Adv.</b>, Accepted (2025)</a>
@@ -51,7 +52,6 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 "Unconventional nonlinear hall effects in insulating twisted multilayers",  
 <a href="https://doi.org/10.1038/s41699-024-00520-6" target="_blank"><b>npj 2D Mater. Appl.</b>, 9, 1 (2025)</a>
 </li><br>
-
 
 <!--2024-->
 <b>2024</b>  
