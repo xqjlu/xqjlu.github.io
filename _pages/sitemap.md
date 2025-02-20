@@ -16,6 +16,7 @@ author_profile: true
 * [OCTOPUS](https://octopus-code.org)
 * [DFTB](https://dftb.org)
 * [DFTB+](https://dftbplus.org)
+* [LAMMPS](https://www.lammps.org)
 * [Mathcha](https://www.mathcha.io)
 
 <h2>AI Tools</h2>
@@ -32,6 +33,7 @@ author_profile: true
 * [GTOs](https://www.basissetexchange.org)
 * [LPPs](https://gitlab.com/shaoxc/ofpp)
 * [ONCVPPs](http://www.mat-simresearch.com)
+* [Interatomic Potentials](https://www.ctcms.nist.gov/potentials/)
 * [NOMAD](https://nomad-lab.eu/nomad-lab/)
 * [OQMD](https://oqmd.org)
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov)
