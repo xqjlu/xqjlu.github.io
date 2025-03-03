@@ -38,6 +38,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <b>2025</b>
 <hr align="left" color="#000000">
 
+<li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, Yanming Ma,
+"Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in orbital-free density functional calculations",  
+<a href="https://arxiv.org/abs/2412.02959" target="_blank"><b>Phys. Rev. B</b>, (2025)</a>
+</li><br>
+
 <li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
 "Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Sci. Adv.</b>, Accepted (2025)</a>
@@ -56,10 +61,6 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2024-->
 <b>2024</b>  
 <hr align="left" color="#000000">
-<li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, Yanming Ma,
-"Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in orbital-free density functional calculations",  
-<a href="https://arxiv.org/abs/2412.02959" target="_blank"><b>Submitted</b>, (2024)</a>
-</li><br>
 
 <li>Pengye Liu, <b>Qiang Xu</b>, Zhao Liu<sup>†</sup>, Tian Cui<sup>†</sup>,
 "Superconducting and Superionic Behaviors of Unusual sp<sup>3</sup>-hybridized Hydrogen in H<sub>5</sub>-regular Tetrahedral under High Pressure",  
