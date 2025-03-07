@@ -50,7 +50,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li>Lantian Xue, Chennan Song, Miaomiao Jian<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yuhao Fu, Pengyue Gao<sup>†</sup>, Yu Xie,
 "Electronic structure and carrier mobility of BSb nanotubes",  
-<a href="https://doi.org/10.1088/1674-1056/adacd3" target="_blank"><b>Chin. Phys. B</b>, Accepted (2025)</a>
+<a href="https://doi.org/10.1088/1674-1056/adacd3" target="_blank"><b>Chin. Phys. B</b>, 34, 037304 (2025)</a>
 </li><br>
 
 <li>Mahmut S. Okyay, Min Choi, <b>Qiang Xu</b>, Adrian P. Dieguez, Mauro D. Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
