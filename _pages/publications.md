@@ -76,7 +76,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 Miao Qi, He Li, Haiyan Mao, Sydney Hemenway, <b>Qiang Xu</b>, Yunfei Wang, Beihang Yu, Xinxin Liu,
 Liana M. Klivansky, Xiaodan Gu, Chenhui Zhu, Jeffrey A. Reimer, Ganglong Cui, Carolin M. Sutter-Fella,
 Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
-"Bridging solid-state and solution-phase topochemical polymerization for high-precision polymer nanofibers",  
+"High-Fidelity Topochemical Polymerization in Single Crystals, Polycrystals, and Solution Aggregates",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
