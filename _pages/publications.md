@@ -38,6 +38,14 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <b>2025</b>
 <hr align="left" color="#000000">
 
+<li>Chongqing Yang<sup>a</sup>, Jianfang Liu<sup>a</sup>, Rebecca S. H. Khoo, Maged Abdelsamie,
+Miao Qi, He Li, Haiyan Mao, Sydney Hemenway, <b>Qiang Xu</b>, Yunfei Wang, Beihang Yu, Xinxin Liu,
+Liana M. Klivansky, Xiaodan Gu, Chenhui Zhu, Jeffrey A. Reimer, Ganglong Cui, Carolin M. Sutter-Fella,
+Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
+"High-Fidelity Topochemical Polymerization in Single Crystals, Polycrystals, and Solution Aggregates",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Nat. Commun.</b>, (2024)</a>
+</li><br>
+
 <li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, Yanming Ma,
 "Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in orbital-free density functional calculations",  
 <a href="https://doi.org/10.1103/PhysRevB.111.125133" target="_blank"><b>Phys. Rev. B</b>, 111, 125133 (2025)</a>
@@ -69,14 +77,6 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li>Yuanqi Jiang<sup>†</sup>, <b>Qiang Xu</b>, Jian Lv, Ping Peng,
 "The origin of the anomalous expansion of the first peak of RDF during the rapid solidification of metal tantalum",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
-</li><br>
-
-<li>Chongqing Yang<sup>a</sup>, Jianfang Liu<sup>a</sup>, Rebecca S. H. Khoo, Maged Abdelsamie,
-Miao Qi, He Li, Haiyan Mao, Sydney Hemenway, <b>Qiang Xu</b>, Yunfei Wang, Beihang Yu, Xinxin Liu,
-Liana M. Klivansky, Xiaodan Gu, Chenhui Zhu, Jeffrey A. Reimer, Ganglong Cui, Carolin M. Sutter-Fella,
-Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
-"High-Fidelity Topochemical Polymerization in Single Crystals, Polycrystals, and Solution Aggregates",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
 
