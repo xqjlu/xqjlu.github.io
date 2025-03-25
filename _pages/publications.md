@@ -43,7 +43,7 @@ Miao Qi, He Li, Haiyan Mao, Sydney Hemenway, <b>Qiang Xu</b>, Yunfei Wang, Beiha
 Liana M. Klivansky, Xiaodan Gu, Chenhui Zhu, Jeffrey A. Reimer, Ganglong Cui, Carolin M. Sutter-Fella,
 Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 "High-Fidelity Topochemical Polymerization in Single Crystals, Polycrystals, and Solution Aggregates",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Nat. Commun.</b>, (2024)</a>
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Nat. Commun.</b>, (2025)</a>
 </li><br>
 
 <li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, Yanming Ma,
