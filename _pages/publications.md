@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="25">
+<ol style="padding-left: 40px;" reversed="" start="23">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -70,6 +70,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <b>2024</b>  
 <hr align="left" color="#000000">
 
+<!--
 <li>Pengye Liu, <b>Qiang Xu</b>, Zhao Liu<sup>†</sup>, Tian Cui<sup>†</sup>,
 "Superconducting and Superionic Behaviors of Unusual sp<sup>3</sup>-hybridized Hydrogen in H<sub>5</sub>-regular Tetrahedral under High Pressure",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
@@ -79,6 +80,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 "The origin of the anomalous expansion of the first peak of RDF during the rapid solidification of metal tantalum",  
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
 </li><br>
+-->
 
 <li><b>Qiang Xu</b><sup>†</sup>, Daniel Weinberg, Mahmut S. Okyay, Min Choi, Mauro D. Ben, and Bryan M. Wong<sup>†</sup>,
 "Photoinduced electron-nuclear dynamics of fullerene and its monolayer networks in solvated environments",  
