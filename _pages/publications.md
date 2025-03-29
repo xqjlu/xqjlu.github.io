@@ -38,6 +38,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <b>2025</b>
 <hr align="left" color="#000000">
 
+<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
+"Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
+<a href="https://doi.org/10.1126/sciadv.adt9411" target="_blank"><b>Sci. Adv.</b>, 11, eadt9411 (2025)</a>
+</li><br>
+
 <li>Chongqing Yang<sup>a</sup>, Jianfang Liu<sup>a</sup>, Rebecca S. H. Khoo, Maged Abdelsamie,
 Miao Qi, He Li, Haiyan Mao, Sydney Hemenway, <b>Qiang Xu</b>, Yunfei Wang, Beihang Yu, Xinxin Liu,
 Liana M. Klivansky, Xiaodan Gu, Chenhui Zhu, Jeffrey A. Reimer, Ganglong Cui, Carolin M. Sutter-Fella,
@@ -49,11 +54,6 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, Yanming Ma,
 "Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in orbital-free density functional calculations",  
 <a href="https://doi.org/10.1103/PhysRevB.111.125133" target="_blank"><b>Phys. Rev. B</b>, 111, 125133 (2025)</a>
-</li><br>
-
-<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
-"Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Sci. Adv.</b>, Accepted (2025)</a>
 </li><br>
 
 <li>Lantian Xue, Chennan Song, Miaomiao Jian<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yuhao Fu, Pengyue Gao<sup>†</sup>, Yu Xie,
