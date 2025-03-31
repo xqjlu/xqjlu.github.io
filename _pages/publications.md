@@ -38,7 +38,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <b>2025</b>
 <hr align="left" color="#000000">
 
-<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
+<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Tian Cui<sup>†</sup>, and Zhao Liu<sup>†</sup>,
 "Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
 <a href="https://doi.org/10.1126/sciadv.adt9411" target="_blank"><b>Sci. Adv.</b>, 11, eadt9411 (2025)</a>
 </li><br>

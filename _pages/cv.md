@@ -54,7 +54,7 @@ Selected Publications
 "Nonlocal pseudopotential energy density functional for orbital-free density functional theory",
 <a href="https://doi.org/10.1038/s41467-022-29002-3" target="_blank"><b>Nat. Commun.</b>, 13, 1385 (2022)</a> 
 
-* Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Zhao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
+* Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Tian Cui<sup>†</sup>, and Zhao Liu<sup>†</sup>,
 "Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
 <a href="https://doi.org/10.1126/sciadv.adt9411" target="_blank"><b>Sci. Adv.</b>, 11, eadt9411 (2025)</a>
 
