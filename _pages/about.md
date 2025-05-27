@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc Researcher at [UC, Riverside](https://www.ucr.edu/). My research focuses on the derivation, development, and implementation of efficient computational methods for condensed matter physics. I am one of the main developers of the VG-rtTDDFTB, ATLAS and ARES packages for large-scale simulations at the DFT level.  
-Email: qiangx(at)ucr.edu 
+I am a Postdoc Researcher at [Jilin University](https://www.jlu.edu.cn/). My research focuses on the derivation, development, and implementation of efficient computational methods for condensed matter physics. I am one of the main developers of the VG-rtTDDFTB, ATLAS and ARES packages for large-scale simulations at the DFT level.  
+Email: xuq(at)jlu.edu.cn 
 <!---
 <qiangx@ucr.edu>
 --->
