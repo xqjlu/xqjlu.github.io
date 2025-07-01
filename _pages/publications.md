@@ -40,7 +40,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li>Yuanqi Jiang<sup>†</sup>, Dadong Wen, <b>Qiang Xu</b>, Jian Lv, Ping Peng,
 "The origin of the anomalous expansion of the first peak in the redial distribution function during the rapid solidification of tantalum metal",  
-<a href="https://doi.org/10.1039/D5CP00247H" target="_blank"><b>Phys. Chem. Chem. Phys.</b>, (2025)</a>
+<a href="https://doi.org/10.1039/D5CP00247H" target="_blank"><b>Phys. Chem. Chem. Phys.</b>, 27, 13280-13294 (2025)</a>
 </li><br>
 
 
