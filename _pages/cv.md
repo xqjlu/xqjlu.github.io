@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* **Jun. 2025 - now** : Jilin University, China
+  * Professor
+  * Duties included: Theoretical Physicist
+
 * **Sep. 2022 - Jun. 2025** : University of California, Riverside
   * Postdoc Researcher
   * Duties included: The development of velocity-gauge real-time TDDFTB
