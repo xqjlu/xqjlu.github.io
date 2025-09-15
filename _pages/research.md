@@ -51,5 +51,5 @@ We presented a Kohn-Sham DFT based calculation package (ARES), utilizing real-sp
     * (o) High computational efficiency for large-scale systems
 -->
 
-**4. Theoretical Model**
+**4. Theoretical Models**
 * Mechanism of superconductivity in molecular hydrides. See Ref.[Liu et al., Sci. Adv. (2025)](https://xqjlu.github.io/publications/)
