@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="24">
+<ol style="padding-left: 40px;" reversed="" start="25">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -37,6 +37,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2025-->
 <b>2025</b>
 <hr align="left" color="#000000">
+
+<li><b>Qiang Xu</b>, Bryan M. Wong<sup>†</sup>,
+"Efficient degradation of per- and polyfluoroalkyl substances on plasmonic surfaces with visible light",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>J. Hazard. Mater.</b>, In press (2025)</a>
+</li><br>
 
 <li>Yuanqi Jiang<sup>†</sup>, Dadong Wen, <b>Qiang Xu</b>, Jian Lv, Ping Peng,
 "The origin of the anomalous expansion of the first peak in the redial distribution function during the rapid solidification of tantalum metal",  
