@@ -20,7 +20,7 @@ Work experience
 ======
 * **Jun. 2025 - now** : Jilin University, China
   * Professor
-  * Duties included: Theoretical Physicist
+  * Duties included: Theoretical Physicist in Computational Physics
 
 * **Sep. 2022 - Jun. 2025** : University of California, Riverside
   * Postdoc Researcher

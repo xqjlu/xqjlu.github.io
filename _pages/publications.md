@@ -40,7 +40,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li><b>Qiang Xu</b>, Bryan M. Wong<sup>†</sup>,
 "Efficient degradation of per- and polyfluoroalkyl substances on plasmonic surfaces with visible light",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>J. Hazard. Mater.</b>, In press (2025)</a>
+<a href="https://doi.org/10.1016/j.jhazmat.2025.139939" target="_blank"><b>J. Hazard. Mater.</b>, In press (2025)</a>
 </li><br>
 
 <li>Yuanqi Jiang<sup>†</sup>, Dadong Wen, <b>Qiang Xu</b>, Jian Lv, Ping Peng,
