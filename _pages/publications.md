@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="25">
+<ol style="padding-left: 40px;" reversed="" start="26">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -38,12 +38,18 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <b>2025</b>
 <hr align="left" color="#000000">
 
-<li><b>Qiang Xu</b>, Bryan M. Wong<sup>†</sup>,
+<li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Counterintuitive potential-barrier affinity effect",  
+<a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160v1 (2025)</a>
+</li><br>
+
+
+<li><b>Qiang Xu</b>, and Bryan M. Wong<sup>†</sup>,
 "Efficient degradation of per- and polyfluoroalkyl substances on plasmonic surfaces with visible light",  
 <a href="https://doi.org/10.1016/j.jhazmat.2025.139939" target="_blank"><b>J. Hazard. Mater.</b> 498, 139939 (2025)</a>
 </li><br>
 
-<li>Yuanqi Jiang<sup>†</sup>, Dadong Wen, <b>Qiang Xu</b>, Jian Lv, Ping Peng,
+<li>Yuanqi Jiang<sup>†</sup>, Dadong Wen, <b>Qiang Xu</b>, Jian Lv, and Ping Peng,
 "The origin of the anomalous expansion of the first peak in the redial distribution function during the rapid solidification of tantalum metal",  
 <a href="https://doi.org/10.1039/D5CP00247H" target="_blank"><b>Phys. Chem. Chem. Phys.</b> 27, 13280-13294 (2025)</a>
 </li><br>
@@ -62,12 +68,12 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <a href="https://doi.org/10.1126/sciadv.adt9411" target="_blank"><b>Sci. Adv.</b> 11, eadt9411 (2025)</a>
 </li><br>
 
-<li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, Yanming Ma,
+<li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma,
 "Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in orbital-free density functional calculations",  
 <a href="https://doi.org/10.1103/PhysRevB.111.125133" target="_blank"><b>Phys. Rev. B</b> 111, 125133 (2025)</a>
 </li><br>
 
-<li>Lantian Xue, Chennan Song, Miaomiao Jian<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yuhao Fu, Pengyue Gao<sup>†</sup>, Yu Xie,
+<li>Lantian Xue, Chennan Song, Miaomiao Jian<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yuhao Fu, Pengyue Gao<sup>†</sup>, and Yu Xie,
 "Electronic structure and carrier mobility of BSb nanotubes",  
 <a href="https://doi.org/10.1088/1674-1056/adacd3" target="_blank"><b>Chin. Phys. B</b> 34, 037304 (2025)</a>
 </li><br>
