@@ -102,10 +102,13 @@ Teaching
 
 Awards 
 ======
-* 2020-2021  The first "Ding Xin" Scholarship
+* 2025  Tang Aoqing Young Talent Award Fund
+* 2020  The first "Ding Xin" Scholarship
+<!--
 * 2015-2016  National Scholarship and First-class Scholarship (Ranks No.1)
 * 2014-2015  National Encouragement Scholarship (Top 10%)
 * 2013-2014  Second Prize in Mathematical Modeling Competition
+-->
 
 Service 
 ======
