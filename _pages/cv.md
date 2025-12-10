@@ -103,7 +103,11 @@ Teaching
 Awards 
 ======
 * 2025  Tang Aoqing Young Talent Award Fund
+* 2021  Golden Seed Talent Training Program
 * 2020  The first "Ding Xin" Scholarship
+
+
+
 <!--
 * 2015-2016  National Scholarship and First-class Scholarship (Ranks No.1)
 * 2014-2015  National Encouragement Scholarship (Top 10%)
