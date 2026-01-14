@@ -35,19 +35,22 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <br>
 <!--hr align="left" color="#000000"-->
 <!--2025-->
-<b>2025</b>
+<b>2026</b>
 <hr align="left" color="#000000">
 
 <li>Zhao Liu, Xiang Wang, Yin Yang, Pengcheng Ma, Zhijun Tu, Xinyu Wang, Donghan Jia, Wenju Zhou, Huiyang Gou, Hechang Lei<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Zhonghao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
 "Evidence for anion-free-electron duality and enhanced superconducting role of interstitial anionic electrons in electrides",  
-<a href="https://arxiv.org/pdf/2511.22028" target="_blank"><b>arXiv</b> 2511.22028 (2025)</a>
+<a href="https://arxiv.org/pdf/2511.22028" target="_blank"><b>arXiv</b> 2511.22028 (2026)</a>
 </li><br>
 
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Counterintuitive potential-barrier affinity effect",  
-<a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160 (2025)</a>
+<a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160 (2026)</a>
 </li><br>
 
+<!--2025-->
+<b>2025</b>
+<hr align="left" color="#000000">
 
 <li><b>Qiang Xu</b>, and Bryan M. Wong<sup>†</sup>,
 "Efficient degradation of per- and polyfluoroalkyl substances on plasmonic surfaces with visible light",  
