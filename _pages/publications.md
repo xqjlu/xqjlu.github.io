@@ -44,7 +44,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 </li><br>
 
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
-"Counterintuitive potential-barrier affinity effect",  
+"Potential-barrier affinity effect in solid systems",  
 <a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160 (2026)</a>
 </li><br>
 
