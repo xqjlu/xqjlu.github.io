@@ -118,7 +118,7 @@ Service
 ======
 * Reviewer for the following journals:
   * J. Am. Chem. Soc.
-  * J. Chem. Phys.
+  * J. Phys. Chem.
   * Appl. Mater. Interfaces.
   * Ind. Eng. Chem. Res.
   * Comput. Mater. Sci.
