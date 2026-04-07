@@ -50,7 +50,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li> Yuan Ma, Xin Zhong<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, and Hanyu Liu<sup>†</sup>,
 "Bonding insights for hydrogen-based superconductors: Nearly free electrons from rare earth 4f orbitals",  
-<a href="https://journals.aps.org/prb/accepted/10.1103/nh6l-p322" target="_blank"><b>Phys. Rev. B</b> Accepted (2026)</a>
+<a href="https://doi.org/10.1103/nh6l-p322" target="_blank"><b>Phys. Rev. B</b> 113, 134508 (2026)</a>
 </li><br>
 
 <!--2025-->
