@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="28">
+<ol style="padding-left: 40px;" reversed="" start="29">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -46,6 +46,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Potential-barrier affinity effect in solid systems",  
 <a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160 (2026)</a>
+</li><br>
+
+<li>Qiushuang Li, Jinxing Geng, Chengjie Peng, Hailan Wang, Feng Wang, Xihan Yu, Wenya Zhao, Guanjun Xiao<sup>†</sup>, Han Wang<sup>†</sup>, Shunxin Li<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Tao Yu<sup>†</sup>, and Bo Zou<sup>†</sup>,
+"Multi-stimuli-responsive Mechanoluminescent Manganese Halide Toward External-light-free Photochemistry",  
+<a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>Angew. Chem. Int. Ed.</b> Accepted (2026)</a>
 </li><br>
 
 <li> Yuan Ma, Xin Zhong<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, and Hanyu Liu<sup>†</sup>,
