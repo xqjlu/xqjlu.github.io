@@ -50,7 +50,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li>Qiushuang Li, Jinxing Geng, Chengjie Peng, Hailan Wang, Feng Wang, Xihan Yu, Wenya Zhao, Guanjun Xiao<sup>†</sup>, Han Wang<sup>†</sup>, Shunxin Li<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Tao Yu<sup>†</sup>, and Bo Zou<sup>†</sup>,
 "Multi-stimuli-responsive Mechanoluminescent Manganese Halide Toward External-light-free Photochemistry",  
-<a href="https://doi.org/10.1002/anie.4311658" target="_blank"><b>Angew. Chem. Int. Ed.</b> Accepted (2026)</a>
+<a href="https://doi.org/10.1002/anie.4311658" target="_blank"><b>Angew. Chem. Int. Ed.</b> e4311658 (2026)</a>
 </li><br>
 
 <li> Yuan Ma, Xin Zhong<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, and Hanyu Liu<sup>†</sup>,
