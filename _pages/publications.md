@@ -38,14 +38,14 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <b>2026</b>
 <hr align="left" color="#000000">
 
-<li>Zhao Liu, Xiang Wang, Yin Yang, Pengcheng Ma, Zhijun Tu, Xinyu Wang, Donghan Jia, Wenju Zhou, Huiyang Gou, Hechang Lei<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Zhonghao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
-"Evidence for anion-free-electron duality and enhanced superconducting role of interstitial anionic electrons in electrides",  
-<a href="https://arxiv.org/pdf/2511.22028" target="_blank"><b>arXiv</b> 2511.22028 (2026)</a>
-</li><br>
-
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Potential-barrier affinity effect in solid systems",  
 <a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160 (2026)</a>
+</li><br>
+
+<li>Zhao Liu, Xiang Wang, Yin Yang, Pengcheng Ma, Zhijun Tu, Xinyu Wang, Donghan Jia, Wenju Zhou, Huiyang Gou, Hechang Lei<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Zhonghao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
+"Free-anionic Duality of Interstitial Electrons Drives Superconductivity in Electride La3In",  
+<a href="https://arxiv.org/pdf/2511.22028" target="_blank"><b>J. Am. Chem. Soc.</b> Accepted (2026)</a>
 </li><br>
 
 <li>Qiushuang Li, Jinxing Geng, Chengjie Peng, Hailan Wang, Feng Wang, Xihan Yu, Wenya Zhao, Guanjun Xiao<sup>†</sup>, Han Wang<sup>†</sup>, Shunxin Li<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Tao Yu<sup>†</sup>, and Bo Zou<sup>†</sup>,
