@@ -45,7 +45,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li>Zhao Liu, Xiang Wang, Yin Yang, Pengcheng Ma, Zhijun Tu, Xinyu Wang, Donghan Jia, Wenju Zhou, Huiyang Gou, Hechang Lei<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Zhonghao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
 "Free-anionic Duality of Interstitial Electrons Drives Superconductivity in Electride La3In",  
-<a href="https://arxiv.org/pdf/2511.22028" target="_blank"><b>J. Am. Chem. Soc.</b> Accepted (2026)</a>
+<a href="https://pubs.acs.org/doi/10.1021/jacs.6c05978" target="_blank"><b>J. Am. Chem. Soc.</b> Accepted (2026)</a>
 </li><br>
 
 <li>Qiushuang Li, Jinxing Geng, Chengjie Peng, Hailan Wang, Feng Wang, Xihan Yu, Wenya Zhao, Guanjun Xiao<sup>†</sup>, Han Wang<sup>†</sup>, Shunxin Li<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Tao Yu<sup>†</sup>, and Bo Zou<sup>†</sup>,
