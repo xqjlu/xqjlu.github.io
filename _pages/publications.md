@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="29">
+<ol style="padding-left: 40px;" reversed="" start="30">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -41,6 +41,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Potential-barrier affinity effect in solid systems",  
 <a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160 (2026)</a>
+</li><br>
+
+<li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Unlocking the Power of Orbital-Free Density Functional Theory to Explore the Electronic Structure Under Extreme Conditions",  
+<a href="https://doi.org/10.1063/5.0331238" target="_blank"><b>Matter Radiat. Extremes</b> 11, 057205 (2026)</a>
 </li><br>
 
 <li>Zhao Liu, Xiang Wang, Yin Yang, Pengcheng Ma, Zhijun Tu, Xinyu Wang, Donghan Jia, Wenju Zhou, Huiyang Gou, Hechang Lei<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Zhonghao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
