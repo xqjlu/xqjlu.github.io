@@ -43,7 +43,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160 (2026)</a>
 </li><br>
 
-<li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+<li>Cheng Ma, <b>Qiang Xu</b>, Zhenhao Zhang, Ke Wang, Ying Sun, Wenhui Mi<sup>†</sup>, Zhandos A. Moldabekov<sup>†</sup>, Tobias Dornheim, Jan Vorberger, Sebastian Schwalbe, and Xuecheng Shao<sup>†</sup>,
 "Unlocking the Power of Orbital-Free Density Functional Theory to Explore the Electronic Structure Under Extreme Conditions",  
 <a href="https://doi.org/10.1063/5.0331238" target="_blank"><b>Matter Radiat. Extremes</b> 11, 057205 (2026)</a>
 </li><br>
