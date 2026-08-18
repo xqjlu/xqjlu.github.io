@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="30">
+<ol style="padding-left: 40px;" reversed="" start="31">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -37,6 +37,12 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2025-->
 <b>2026</b>
 <hr align="left" color="#000000">
+
+<li>Yifan Yao<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, James Symons Galassi, and Bryan M. Wong<sup>†</sup>,
+"Assessment of machine-learned vs. classical/quantum atomistic simulations for predicting palladium-hydrogen materials",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b> (2026)</a>
+</li><br>
+
 
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Potential-barrier affinity effect in solid systems",  
