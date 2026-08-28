@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="31">
+<ol style="padding-left: 40px;" reversed="" start="32">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -43,6 +43,10 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b> (2026)</a>
 </li><br>
 
+<li>Yongshuo Chen, Cheng Ma, Shaohua Lu, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, and Yanchao Wang<sup>†</sup>,
+"Orbital-free density functional theory in the tight-binding formalism for covalent systems",  
+<a href="https://doi.org/10.1103/11fc-v3vk" target="_blank"><b>Phys. Rev. B</b> Accpted (2026)</a>
+</li><br>
 
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Potential-barrier affinity effect in solid systems",  
