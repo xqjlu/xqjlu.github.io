@@ -43,14 +43,14 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b> (2026)</a>
 </li><br>
 
-<li>Yongshuo Chen, Cheng Ma, Shaohua Lu, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, and Yanchao Wang<sup>†</sup>,
-"Orbital-free density functional theory in the tight-binding formalism for covalent systems",  
-<a href="https://doi.org/10.1103/11fc-v3vk" target="_blank"><b>Phys. Rev. B</b> Accpted (2026)</a>
-</li><br>
-
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Potential-barrier affinity effect in solid systems",  
 <a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160 (2026)</a>
+</li><br>
+
+<li>Yongshuo Chen, Cheng Ma, Shaohua Lu, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, and Yanchao Wang<sup>†</sup>,
+"Orbital-free density functional theory in the tight-binding formalism for covalent systems",  
+<a href="https://doi.org/10.1103/11fc-v3vk" target="_blank"><b>Phys. Rev. B</b> 114, 175104 (2026)</a>
 </li><br>
 
 <li>Cheng Ma, <b>Qiang Xu</b>, Zhenhao Zhang, Ke Wang, Ying Sun, Wenhui Mi<sup>†</sup>, Zhandos A. Moldabekov<sup>†</sup>, Tobias Dornheim, Jan Vorberger, Sebastian Schwalbe, and Xuecheng Shao<sup>†</sup>,
