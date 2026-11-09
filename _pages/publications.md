@@ -40,7 +40,7 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 
 <li>Yifan Yao<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, James Symons Galassi, and Bryan M. Wong<sup>†</sup>,
 "Assessment of machine-learned vs. classical/quantum atomistic simulations for predicting palladium-hydrogen materials",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Accepted</b> Int. J. Hydrog. ENergy (2026)</a>
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Accepted</b> Int. J. Hydrog. Energy (2026)</a>
 </li><br>
 
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
