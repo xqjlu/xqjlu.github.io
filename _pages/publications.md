@@ -26,7 +26,7 @@ redirect_from:
 <div id="publists" class="en_pub">
 
 
-<ol style="padding-left: 40px;" reversed="" start="32">
+<ol style="padding-left: 40px;" reversed="" start="33">
 
 Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
 [<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
@@ -37,6 +37,11 @@ Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup
 <!--2025-->
 <b>2026</b>
 <hr align="left" color="#000000">
+
+<li>Jingshen Yan, <b>Qiang Xu</b><sup>†</sup>, Shenshu Lv, and Kaixuan Chen<sup>†</sup>,
+"Field-Controlled Dissipationless Transport in Bilayer M2X3: A Route to Topological Transistors",  
+<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Proc. Natl. Acad. Sci. USA</b> Accepted (2026)</a>
+</li><br>
 
 <li>Yifan Yao<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, James Symons Galassi, and Bryan M. Wong<sup>†</sup>,
 "Assessment of machine-learned vs. classical/quantum atomistic simulations for predicting palladium-hydrogen materials",  
