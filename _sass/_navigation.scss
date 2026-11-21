@@ -308,6 +308,22 @@
   }
 }
 
+@media (max-width: 599px) {
+  .greedy-nav {
+    min-width: 0;
+    padding-right: 44px;
+
+    a {
+      margin-left: 0.5rem;
+      margin-right: 0.5rem;
+    }
+  }
+
+  .masthead__menu-item--lg {
+    padding-right: 0.5rem;
+  }
+}
+
 
 /*
    Navigation list

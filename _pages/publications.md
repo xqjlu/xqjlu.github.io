@@ -1,252 +1,230 @@
 ---
 layout: archive
 title: "Publications"
+excerpt: "Peer-reviewed articles and preprints in electronic-structure theory and computational condensed-matter physics."
 permalink: /publications/
 author_profile: true
 redirect_from:
   - /publications.md/
   - /publications.html/
 ---
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
-<meta http-equiv="expires" content="0">
+Corresponding author<sup>†</sup>; equal contribution<sup>a</sup>. See also [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate).
 
-</head>
+## 2026
 
-<body>
-
-
-<a name="top"></a>
-
-
-
-
-<div id="publists" class="en_pub">
-
-
-<ol style="padding-left: 40px;" reversed="" start="33">
-
-Corresponding Author<sup>†</sup>; These authors contributed equally<sup>a</sup>   
-[<a href="https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>]
-<br>
-
-<br>
-<!--hr align="left" color="#000000"-->
-<!--2025-->
-<b>2026</b>
-<hr align="left" color="#000000">
+<ol class="publication-list" reversed start="33">
 
 <li>Jingshen Yan, <b>Qiang Xu</b><sup>†</sup>, Shenshu Lv, and Kaixuan Chen<sup>†</sup>,
-"Field-Controlled Dissipationless Transport in Bilayer M2X3: A Route to Topological Transistors",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Proc. Natl. Acad. Sci. USA</b> Accepted (2026)</a>
-</li><br>
+"Field-Controlled Dissipationless Transport in Bilayer M2X3: A Route to Topological Transistors",
+<a href="https://xqjlu.github.io/publications/" target="_blank" rel="noopener noreferrer"><b>Proc. Natl. Acad. Sci. USA</b> Accepted (2026)</a>
+</li>
 
 <li>Yifan Yao<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, James Symons Galassi, and Bryan M. Wong<sup>†</sup>,
-"Assessment of machine-learned vs. classical/quantum atomistic simulations for predicting palladium-hydrogen materials",  
-<a href="https://doi.org/10.1016/j.ijhydene.2026.158600" target="_blank"><b>Int. J. Hydrog. Energy</b> 294, 158600 (2026)</a>
-</li><br>
+"Assessment of machine-learned vs. classical/quantum atomistic simulations for predicting palladium-hydrogen materials",
+<a href="https://doi.org/10.1016/j.ijhydene.2026.158600" target="_blank" rel="noopener noreferrer"><b>Int. J. Hydrog. Energy</b> 294, 158600 (2026)</a>
+</li>
 
 <li><b>Qiang Xu</b><sup>†</sup>, Zhao Liu<sup>†</sup>, and Yanming Ma<sup>†</sup>,
-"Potential-barrier affinity effect in solid systems",  
-<a href="https://arxiv.org/pdf/2511.11160" target="_blank"><b>arXiv</b> 2511.11160 (2026)</a>
-</li><br>
+"Potential-barrier affinity effect in solid systems",
+<a href="https://arxiv.org/pdf/2511.11160" target="_blank" rel="noopener noreferrer"><b>arXiv</b> 2511.11160 (2026)</a>
+</li>
 
 <li>Yongshuo Chen, Cheng Ma, Shaohua Lu, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, and Yanchao Wang<sup>†</sup>,
-"Orbital-free density functional theory in the tight-binding formalism for covalent systems",  
-<a href="https://doi.org/10.1103/11fc-v3vk" target="_blank"><b>Phys. Rev. B</b> 114, 175104 (2026)</a>
-</li><br>
+"Orbital-free density functional theory in the tight-binding formalism for covalent systems",
+<a href="https://doi.org/10.1103/11fc-v3vk" target="_blank" rel="noopener noreferrer"><b>Phys. Rev. B</b> 114, 175104 (2026)</a>
+</li>
 
 <li>Cheng Ma, <b>Qiang Xu</b>, Zhenhao Zhang, Ke Wang, Ying Sun, Wenhui Mi<sup>†</sup>, Zhandos A. Moldabekov<sup>†</sup>, Tobias Dornheim, Jan Vorberger, Sebastian Schwalbe, and Xuecheng Shao<sup>†</sup>,
-"Unlocking the Power of Orbital-Free Density Functional Theory to Explore the Electronic Structure Under Extreme Conditions",  
-<a href="https://doi.org/10.1063/5.0331238" target="_blank"><b>Matter Radiat. Extremes</b> 11, 057205 (2026)</a>
-</li><br>
+"Unlocking the Power of Orbital-Free Density Functional Theory to Explore the Electronic Structure Under Extreme Conditions",
+<a href="https://doi.org/10.1063/5.0331238" target="_blank" rel="noopener noreferrer"><b>Matter Radiat. Extremes</b> 11, 057205 (2026)</a>
+</li>
 
 <li>Zhao Liu, Xiang Wang, Yin Yang, Pengcheng Ma, Zhijun Tu, Xinyu Wang, Donghan Jia, Wenju Zhou, Huiyang Gou, Hechang Lei<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Zhonghao Liu<sup>†</sup>, and Tian Cui<sup>†</sup>,
-"Free-anionic Duality of Interstitial Electrons Drives Superconductivity in Electride La3In",  
-<a href="https://pubs.acs.org/doi/10.1021/jacs.6c05978" target="_blank"><b>J. Am. Chem. Soc.</b> 148, 27520 (2026)</a>
-</li><br>
+"Free-anionic Duality of Interstitial Electrons Drives Superconductivity in Electride La3In",
+<a href="https://pubs.acs.org/doi/10.1021/jacs.6c05978" target="_blank" rel="noopener noreferrer"><b>J. Am. Chem. Soc.</b> 148, 27520 (2026)</a>
+</li>
 
 <li>Qiushuang Li, Jinxing Geng, Chengjie Peng, Hailan Wang, Feng Wang, Xihan Yu, Wenya Zhao, Guanjun Xiao<sup>†</sup>, Han Wang<sup>†</sup>, Shunxin Li<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Tao Yu<sup>†</sup>, and Bo Zou<sup>†</sup>,
-"Multi-stimuli-responsive Mechanoluminescent Manganese Halide Toward External-light-free Photochemistry",  
-<a href="https://doi.org/10.1002/anie.4311658" target="_blank"><b>Angew. Chem. Int. Ed.</b> e4311658 (2026)</a>
-</li><br>
+"Multi-stimuli-responsive Mechanoluminescent Manganese Halide Toward External-light-free Photochemistry",
+<a href="https://doi.org/10.1002/anie.4311658" target="_blank" rel="noopener noreferrer"><b>Angew. Chem. Int. Ed.</b> e4311658 (2026)</a>
+</li>
 
 <li> Yuan Ma, Xin Zhong<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, and Hanyu Liu<sup>†</sup>,
-"Bonding insights for hydrogen-based superconductors: Nearly free electrons from rare earth 4f orbitals",  
-<a href="https://doi.org/10.1103/nh6l-p322" target="_blank"><b>Phys. Rev. B</b> 113, 134508 (2026)</a>
-</li><br>
+"Bonding insights for hydrogen-based superconductors: Nearly free electrons from rare earth 4f orbitals",
+<a href="https://doi.org/10.1103/nh6l-p322" target="_blank" rel="noopener noreferrer"><b>Phys. Rev. B</b> 113, 134508 (2026)</a>
+</li>
 
-<!--2025-->
-<b>2025</b>
-<hr align="left" color="#000000">
+</ol>
+
+## 2025
+
+<ol class="publication-list" reversed start="25">
 
 <li><b>Qiang Xu</b>, and Bryan M. Wong<sup>†</sup>,
-"Efficient degradation of per- and polyfluoroalkyl substances on plasmonic surfaces with visible light",  
-<a href="https://doi.org/10.1016/j.jhazmat.2025.139939" target="_blank"><b>J. Hazard. Mater.</b> 498, 139939 (2025)</a>
-</li><br>
+"Efficient degradation of per- and polyfluoroalkyl substances on plasmonic surfaces with visible light",
+<a href="https://doi.org/10.1016/j.jhazmat.2025.139939" target="_blank" rel="noopener noreferrer"><b>J. Hazard. Mater.</b> 498, 139939 (2025)</a>
+</li>
 
 <li>Yuanqi Jiang<sup>†</sup>, Dadong Wen, <b>Qiang Xu</b>, Jian Lv, and Ping Peng,
-"The origin of the anomalous expansion of the first peak in the redial distribution function during the rapid solidification of tantalum metal",  
-<a href="https://doi.org/10.1039/D5CP00247H" target="_blank"><b>Phys. Chem. Chem. Phys.</b> 27, 13280-13294 (2025)</a>
-</li><br>
+"The origin of the anomalous expansion of the first peak in the radial distribution function during the rapid solidification of tantalum metal",
+<a href="https://doi.org/10.1039/D5CP00247H" target="_blank" rel="noopener noreferrer"><b>Phys. Chem. Chem. Phys.</b> 27, 13280-13294 (2025)</a>
+</li>
 
 
 <li>Chongqing Yang<sup>a</sup>, Jianfang Liu<sup>a</sup>, Rebecca S. H. Khoo, Maged Abdelsamie,
 Miao Qi, He Li, Haiyan Mao, Sydney Hemenway, <b>Qiang Xu</b>, Yunfei Wang, Beihang Yu, Xinxin Liu,
 Liana M. Klivansky, Xiaodan Gu, Chenhui Zhu, Jeffrey A. Reimer, Ganglong Cui, Carolin M. Sutter-Fella,
 Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
-"High-fidelity topochemical polymerization in single crystals, polycrystals, and solution aggregates",  
-<a href="https://doi.org/10.1038/s41467-025-58822-2" target="_blank"><b>Nat. Commun.</b> 16, 3498 (2025)</a>
-</li><br>
+"High-fidelity topochemical polymerization in single crystals, polycrystals, and solution aggregates",
+<a href="https://doi.org/10.1038/s41467-025-58822-2" target="_blank" rel="noopener noreferrer"><b>Nat. Commun.</b> 16, 3498 (2025)</a>
+</li>
 
 <li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Tian Cui<sup>†</sup>, and Zhao Liu<sup>†</sup>,
-"Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",  
-<a href="https://doi.org/10.1126/sciadv.adt9411" target="_blank"><b>Sci. Adv.</b> 11, eadt9411 (2025)</a>
-</li><br>
+"Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",
+<a href="https://doi.org/10.1126/sciadv.adt9411" target="_blank" rel="noopener noreferrer"><b>Sci. Adv.</b> 11, eadt9411 (2025)</a>
+</li>
 
 <li>Yongshuo Chen, Cheng Ma, Boning Cui, Tian Cui, Wenhui Mi<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma,
-"Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in orbital-free density functional calculations",  
-<a href="https://doi.org/10.1103/PhysRevB.111.125133" target="_blank"><b>Phys. Rev. B</b> 111, 125133 (2025)</a>
-</li><br>
+"Fast and stable tight-binding framework for nonlocal kinetic energy density functional reconstruction in orbital-free density functional calculations",
+<a href="https://doi.org/10.1103/PhysRevB.111.125133" target="_blank" rel="noopener noreferrer"><b>Phys. Rev. B</b> 111, 125133 (2025)</a>
+</li>
 
 <li>Lantian Xue, Chennan Song, Miaomiao Jian<sup>†</sup>, <b>Qiang Xu</b><sup>†</sup>, Yuhao Fu, Pengyue Gao<sup>†</sup>, and Yu Xie,
-"Electronic structure and carrier mobility of BSb nanotubes",  
-<a href="https://doi.org/10.1088/1674-1056/adacd3" target="_blank"><b>Chin. Phys. B</b> 34, 037304 (2025)</a>
-</li><br>
+"Electronic structure and carrier mobility of BSb nanotubes",
+<a href="https://doi.org/10.1088/1674-1056/adacd3" target="_blank" rel="noopener noreferrer"><b>Chin. Phys. B</b> 34, 037304 (2025)</a>
+</li>
 
 <li>Mahmut S. Okyay, Min Choi, <b>Qiang Xu</b>, Adrian P. Dieguez, Mauro D. Ben, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
-"Unconventional nonlinear hall effects in insulating twisted multilayers",  
-<a href="https://doi.org/10.1038/s41699-024-00520-6" target="_blank"><b>npj 2D Mater. Appl.</b> 9, 1 (2025)</a>
-</li><br>
-
-<!--2024-->
-<b>2024</b>  
-<hr align="left" color="#000000">
-
-<!--
-<li>Pengye Liu, <b>Qiang Xu</b>, Zhao Liu<sup>†</sup>, Tian Cui<sup>†</sup>,
-"Superconducting and Superionic Behaviors of Unusual sp<sup>3</sup>-hybridized Hydrogen in H<sub>5</sub>-regular Tetrahedral under High Pressure",  
-<a href="https://xqjlu.github.io/publications/" target="_blank"><b>Submitted</b>, (2024)</a>
-</li><br>
-
--->
-
-<li><b>Qiang Xu</b><sup>†</sup>, Daniel Weinberg, Mahmut S. Okyay, Min Choi, Mauro D. Ben, and Bryan M. Wong<sup>†</sup>,
-"Photoinduced electron-nuclear dynamics of fullerene and its monolayer networks in solvated environments",  
-<a href="https://doi.org/10.1021/jacs.4c12952" target="_blank"><b>J. Am. Chem. Soc.</b> 146, 51, 35313-35320 (2024)</a>
-</li><br>
-
-<li>Lantian Xue, <b>Qiang Xu</b><sup>†</sup>, Cheng Ma, Wenhui Mi, Yanchao Wang, Yu Xie<sup>†</sup>, and Yanming Ma<sup>†</sup>,
-"Accelerating ab initio real-space electronic structure calculations for low-dimensional materials using an atom-sphere grid truncation method",  
-<a href="https://doi.org/10.1103/PhysRevB.110.155157" target="_blank"><b>Phys. Rev. B</b> 110, 155157 (2024)</a>
-</li><br>
-
-<li><a><b>[Editors' Suggestion]</b></a> Cheng Ma, Min Chen, Yu Xie, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
-"Nonlocal free-energy density functional for a broad range of warm dense matter simulations",  
-<a href="https://doi.org/10.1103/PhysRevB.110.085113" target="_blank"><b>Phys. Rev. B</b> 110, 085113 (2024)</a>
-</li><br>
-
-<li>Liping Liu, <b>Qiang Xu</b>, Leonardo dos A. Cunha, Hongliang Xin, Martin Head-Gordon, and Jin Qian<sup>†</sup>,
-"Real-space pseudopotential method for the calculation of third-row elements X-ray photoelectron spectroscopic signatures",  
-<a href=" https://doi.org/10.1021/acs.jctc.4c00535" target="_blank"><b>J. Chem. Theory Comput.</b> 20, 14, 6134-6143 (2024)</a>
-</li><br>
-
-<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
-"Recent advancements and challenges in orbital-free density functional theory",  
-<a href="https://doi.org/10.1002/wcms.1724" target="_blank"><b>WIREs: Comput. Mol. Sci.</b> e1724 (2024)</a>
-</li><br>
-
-<li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Nonlocal pseudopotential energy density functional for semiconductors",  
-<a href="https://doi.org/10.1103/PhysRevB.109.075144" target="_blank"><b>Phys. Rev. B</b> 109, 075144 (2024)</a>
-</li><br>
-
-<!--2023-->
-<b>2023</b>  
-<hr align="left" color="#000000">
-<li><a><b>[Cover]</b></a> <b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
-"Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",  
-<a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank"><b>J. Chem. Theory Comput.</b> 19, 22, 7989-7997 (2023)</a>
-</li><br>
-
-<li>Drew M. Glenna<sup>a</sup>, Asmita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,
-"Carbon capture: theoretical guidelines for activated carbon-based CO<sub>2</sub> adsorption material evaluation",  
-<a href="https://doi.org/10.1021/acs.jpclett.3c02711" target="_blank"><b>J. Phys. Chem. Lett.</b> 14, 47, 10693-10699 (2023)</a>
-</li><br>
-
-<li><a><b>[Won't cooperate anymore]</b></a> Shane W. Devlin<sup>a</sup>, Sasawat Jamnuch<sup>a</sup>, <b>Qiang Xu</b>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>, 
-"Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air–water interface",  
-<a href="https://doi.org/10.1021/jacs.3c05093" target="_blank"><b>J. Am. Chem. Soc.</b> 145, 41, 22384-22393 (2023)</a>
-</li><br>
-
-<!--2022-->
-<b>2022</b>  
-<hr align="left" color="#000000">
-<li>Hongxia Hao<sup>a,†</sup>, Luis R. Pestana<sup>a,†</sup>, Jin Qian<sup>a,†</sup>, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon<sup>†</sup>, 
-"Chemical transformations and transport phenomena at interfaces",  
-<a href="https://doi.org/10.1002/wcms.1639" target="_blank"><b>WIREs: Comput. Mol. Sci.</b> e1639 (2022)</a>
-</li><br>
-
-<li><b>Qiang Xu</b>, David Prendergast, and Jin Qian<sup>†</sup>, 
-"Real-space pseudopotential method for the calculation of 1s core-level binding energies",  
-<a href="https://doi.org/10.1021/acs.jctc.2c00474" target="_blank"><b>J. Chem. Theory Comput.</b> 18, 9, 5471-5478 (2022)</a>
-</li><br>
-
-<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi, Yanchao Wang<sup>†</sup>, and Yanming Ma, 
-"Nonlocal pseudopotential energy density functional for orbital-free density functional theory",  
-<a href="https://doi.org/10.1038/s41467-022-29002-3" target="_blank"><b>Nat. Commun.</b> 13, 1385 (2022)</a> 
-</li><br>
-
-<!--2020-->
-<b>2020</b>  
-<hr align="left" color="#000000">
-<li><b>Qiang Xu</b>, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
-"Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",  
-<a href="https://doi.org/10.1103/PhysRevB.101.045110" target="_blank"><b>Phys. Rev. B</b> 101, 045110 (2020)</a>  
-</li><br>
-
-<!--2019-->
-<b>2019</b>  
-<hr align="left" color="#000000">
-<li><b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
-"Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",  
-<a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank"><b>Phys. Rev. B</b> 100, 205132 (2019)</a>  
-</li><br>
-
-<li><b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
-"Ab initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method",  
-<a href="https://doi.org/10.1088/1361-648X/ab2a63" target="_blank"><b>J. Phys.: Condens. Matter</b> 31, 455901 (2019)</a>
-</li><br>
-
-<!--2018-->
-<b>2018</b>  
-<hr align="left" color="#000000">
-<li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
-"Large-scale ab initio simulations for periodic system",  
-<a href="https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank"><b>Comput. Phys. Commun.</b> 233, 78-83 (2018)</a>
-</li><br>
-
-<!--2016-->
-<b>2016</b>  
-<hr align="left" color="#000000">
-<li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, 
-"O(NlogN) scaling method to evaluate the ion–electron potential of crystalline solids",  
-<a href="https://doi.org/10.1063/1.4967319"  target="_blank"><b>J. Chem. Phys.</b> 145, 184110 (2016)</a>
-</li><br>
-
-<li>Yuanyuan Zhou, <b>Qiang Xu</b>, Chunye Zhu, Qian Li, Hanyu Liu, Hui Wang<sup>†</sup>, and John S. Tse<sup>†</sup>, 
-"Predicted lithium–iron compounds under high pressure",  
-<a href="https://doi.org/10.1039/C6RA11064A"  target="_blank"><b>RSC Adv.</b> 6, 66721-66728 (2016)</a>
-</li><br>
+"Unconventional nonlinear hall effects in insulating twisted multilayers",
+<a href="https://doi.org/10.1038/s41699-024-00520-6" target="_blank" rel="noopener noreferrer"><b>npj 2D Mater. Appl.</b> 9, 1 (2025)</a>
+</li>
 
 </ol>
 
+## 2024
 
+<ol class="publication-list" reversed start="18">
 
-</div>
+<li><b>Qiang Xu</b><sup>†</sup>, Daniel Weinberg, Mahmut S. Okyay, Min Choi, Mauro D. Ben, and Bryan M. Wong<sup>†</sup>,
+"Photoinduced electron-nuclear dynamics of fullerene and its monolayer networks in solvated environments",
+<a href="https://doi.org/10.1021/jacs.4c12952" target="_blank" rel="noopener noreferrer"><b>J. Am. Chem. Soc.</b> 146, 51, 35313-35320 (2024)</a>
+</li>
 
+<li>Lantian Xue, <b>Qiang Xu</b><sup>†</sup>, Cheng Ma, Wenhui Mi, Yanchao Wang, Yu Xie<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Accelerating ab initio real-space electronic structure calculations for low-dimensional materials using an atom-sphere grid truncation method",
+<a href="https://doi.org/10.1103/PhysRevB.110.155157" target="_blank" rel="noopener noreferrer"><b>Phys. Rev. B</b> 110, 155157 (2024)</a>
+</li>
 
-</body></html>
+<li><strong>[Editors' Suggestion]</strong> Cheng Ma, Min Chen, Yu Xie, <b>Qiang Xu</b><sup>†</sup>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Nonlocal free-energy density functional for a broad range of warm dense matter simulations",
+<a href="https://doi.org/10.1103/PhysRevB.110.085113" target="_blank" rel="noopener noreferrer"><b>Phys. Rev. B</b> 110, 085113 (2024)</a>
+</li>
+
+<li>Liping Liu, <b>Qiang Xu</b>, Leonardo dos A. Cunha, Hongliang Xin, Martin Head-Gordon, and Jin Qian<sup>†</sup>,
+"Real-space pseudopotential method for the calculation of third-row elements X-ray photoelectron spectroscopic signatures",
+<a href="https://doi.org/10.1021/acs.jctc.4c00535" target="_blank" rel="noopener noreferrer"><b>J. Chem. Theory Comput.</b> 20, 14, 6134-6143 (2024)</a>
+</li>
+
+<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Recent advancements and challenges in orbital-free density functional theory",
+<a href="https://doi.org/10.1002/wcms.1724" target="_blank" rel="noopener noreferrer"><b>WIREs: Comput. Mol. Sci.</b> e1724 (2024)</a>
+</li>
+
+<li>Cheng Ma, <b>Qiang Xu</b>, Wenhui Mi<sup>†</sup>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>, "Nonlocal pseudopotential energy density functional for semiconductors",
+<a href="https://doi.org/10.1103/PhysRevB.109.075144" target="_blank" rel="noopener noreferrer"><b>Phys. Rev. B</b> 109, 075144 (2024)</a>
+</li>
+
+</ol>
+
+## 2023
+
+<ol class="publication-list" reversed start="12">
+<li><strong>[Cover]</strong> <b>Qiang Xu</b>, Mauro D. Ben, Mahmut S. Okyay, Min Choi, Khaled Z. Ibrahim, and Bryan M. Wong<sup>†</sup>,
+"Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems",
+<a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank" rel="noopener noreferrer"><b>J. Chem. Theory Comput.</b> 19, 22, 7989-7997 (2023)</a>
+</li>
+
+<li>Drew M. Glenna<sup>a</sup>, Asmita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,
+"Carbon capture: theoretical guidelines for activated carbon-based CO<sub>2</sub> adsorption material evaluation",
+<a href="https://doi.org/10.1021/acs.jpclett.3c02711" target="_blank" rel="noopener noreferrer"><b>J. Phys. Chem. Lett.</b> 14, 47, 10693-10699 (2023)</a>
+</li>
+
+<li>Shane W. Devlin<sup>a</sup>, Sasawat Jamnuch<sup>a</sup>, <b>Qiang Xu</b>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>,
+"Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air–water interface",
+<a href="https://doi.org/10.1021/jacs.3c05093" target="_blank" rel="noopener noreferrer"><b>J. Am. Chem. Soc.</b> 145, 41, 22384-22393 (2023)</a>
+</li>
+
+</ol>
+
+## 2022
+
+<ol class="publication-list" reversed start="9">
+<li>Hongxia Hao<sup>a,†</sup>, Luis R. Pestana<sup>a,†</sup>, Jin Qian<sup>a,†</sup>, Meili Liu, <b>Qiang Xu</b>, and Teresa Head-Gordon<sup>†</sup>,
+"Chemical transformations and transport phenomena at interfaces",
+<a href="https://doi.org/10.1002/wcms.1639" target="_blank" rel="noopener noreferrer"><b>WIREs: Comput. Mol. Sci.</b> e1639 (2022)</a>
+</li>
+
+<li><b>Qiang Xu</b>, David Prendergast, and Jin Qian<sup>†</sup>,
+"Real-space pseudopotential method for the calculation of 1s core-level binding energies",
+<a href="https://doi.org/10.1021/acs.jctc.2c00474" target="_blank" rel="noopener noreferrer"><b>J. Chem. Theory Comput.</b> 18, 9, 5471-5478 (2022)</a>
+</li>
+
+<li><b>Qiang Xu</b>, Cheng Ma, Wenhui Mi, Yanchao Wang<sup>†</sup>, and Yanming Ma,
+"Nonlocal pseudopotential energy density functional for orbital-free density functional theory",
+<a href="https://doi.org/10.1038/s41467-022-29002-3" target="_blank" rel="noopener noreferrer"><b>Nat. Commun.</b> 13, 1385 (2022)</a>
+</li>
+
+</ol>
+
+## 2020
+
+<ol class="publication-list" reversed start="6">
+<li><b>Qiang Xu</b>, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Nonlocal kinetic energy density functionals for isolated systems obtained via local density approximation kernels",
+<a href="https://doi.org/10.1103/PhysRevB.101.045110" target="_blank" rel="noopener noreferrer"><b>Phys. Rev. B</b> 101, 045110 (2020)</a>
+</li>
+
+</ol>
+
+## 2019
+
+<ol class="publication-list" reversed start="5">
+<li><b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Nonlocal kinetic energy density functional via line integrals and its application to orbital-free density functional theory",
+<a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank" rel="noopener noreferrer"><b>Phys. Rev. B</b> 100, 205132 (2019)</a>
+</li>
+
+<li><b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Ab initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method",
+<a href="https://doi.org/10.1088/1361-648X/ab2a63" target="_blank" rel="noopener noreferrer"><b>J. Phys.: Condens. Matter</b> 31, 455901 (2019)</a>
+</li>
+
+</ol>
+
+## 2018
+
+<ol class="publication-list" reversed start="3">
+<li>Xuecheng Shao, <b>Qiang Xu</b>, Sheng Wang, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"Large-scale ab initio simulations for periodic system",
+<a href="https://doi.org/10.1016/j.cpc.2018.07.009"  target="_blank" rel="noopener noreferrer"><b>Comput. Phys. Commun.</b> 233, 78-83 (2018)</a>
+</li>
+
+</ol>
+
+## 2016
+
+<ol class="publication-list" reversed start="2">
+<li>Xuecheng Shao, Wenhui Mi, <b>Qiang Xu</b>, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+"O(NlogN) scaling method to evaluate the ion–electron potential of crystalline solids",
+<a href="https://doi.org/10.1063/1.4967319"  target="_blank" rel="noopener noreferrer"><b>J. Chem. Phys.</b> 145, 184110 (2016)</a>
+</li>
+
+<li>Yuanyuan Zhou, <b>Qiang Xu</b>, Chunye Zhu, Qian Li, Hanyu Liu, Hui Wang<sup>†</sup>, and John S. Tse<sup>†</sup>,
+"Predicted lithium–iron compounds under high pressure",
+<a href="https://doi.org/10.1039/C6RA11064A"  target="_blank" rel="noopener noreferrer"><b>RSC Adv.</b> 6, 66721-66728 (2016)</a>
+</li>
+
+</ol>
 
 

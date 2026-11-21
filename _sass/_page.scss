@@ -49,6 +49,23 @@
 }
 
 .page__content {
+  min-width: 0;
+  overflow-wrap: anywhere;
+
+  img,
+  iframe {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .publication-list {
+    padding-left: 2rem;
+
+    li {
+      margin-bottom: 1.25rem;
+      padding-left: 0.25rem;
+    }
+  }
 
   h2 {
     padding-bottom: 0.5em;
@@ -104,6 +121,16 @@
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
+  }
+}
+
+@media (max-width: 599px) {
+  .page__content figure.align-right,
+  .page__content figure.align-left {
+    float: none;
+    max-width: 100% !important;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
