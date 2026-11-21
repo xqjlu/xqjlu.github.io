@@ -70,11 +70,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
 
-collections:
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 defaults:
   - scope:
       path: ""
@@ -82,14 +77,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 sass:
   sass_dir: _sass
   style: compressed
