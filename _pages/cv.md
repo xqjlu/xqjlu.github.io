@@ -45,11 +45,11 @@ Work experience
 * Differential geometry and functional analysis
 * Scientific software development in Fortran and Python
 
-## Awards
-
-* **2025:** Tang Aoqing Young Talent Award Fund
-* **2021:** Golden Seed Talent Training Program
-* **2020:** First Ding Xin Scholarship
+Awards
+======
+* 2025  Tang Aoqing Young Talent Award Fund
+* 2021  Golden Seed Talent Training Program
+* 2020  The first "Ding Xin" Scholarship
 
 ## Professional Service
 
