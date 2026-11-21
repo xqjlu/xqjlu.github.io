@@ -34,7 +34,7 @@ author_profile: true
 <h2>Online LaTeX Editors</h2>
 
 <ul class="sitemap-grid">
-  <li><a href="http://slager.link">Slager</a></li>
+  <li><a href="https://latex.cstcloud.cn/login">cstLatex</a></li>
   <li><a href="https://www.overleaf.com">Overleaf</a></li>
 </ul>
 
