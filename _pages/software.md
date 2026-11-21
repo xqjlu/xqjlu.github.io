@@ -37,4 +37,4 @@ Relevant publications:
 4. [X. Shao et al., *Comput. Phys. Commun.* (2018)](https://doi.org/10.1016/j.cpc.2018.07.009)
 5. [W. Mi et al., *Comput. Phys. Commun.* (2016)](https://doi.org/10.1016/j.cpc.2015.11.004)
 
-For questions about software access or collaboration, contact [xuq@jlu.edu.cn](mailto:xuq@jlu.edu.cn).
+For questions about software access or collaboration, contact xuq(at)jlu.edu.cn.

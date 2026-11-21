@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Professor of Physics at [Jilin University](https://www.jlu.edu.cn/). My research focuses on deriving, developing, and implementing efficient electronic-structure methods for large-scale condensed-matter simulations. I am one of the main developers of the VG-rtTDDFTB, ATLAS, and ARES software packages.
 
-Email: [xuq@jlu.edu.cn](mailto:xuq@jlu.edu.cn)
+Email: xuq(at)jlu.edu.cn
 
 Research Interests
 ======
