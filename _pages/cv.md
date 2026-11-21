@@ -8,28 +8,34 @@ redirect_from:
   - /resume
 ---
 
-## Current Appointment
+Current appointment
+======
+* **Jun. 2025 - now** : Jilin University, China
+  * Professor
+  * Duties included: Theoretical Physicist in Computational Physics
 
-**Professor of Physics**, Jilin University, China
-June 2025–present
+Education
+======
+* B.S. in Physics, Jilin University, 2011 - 2015
+* Ph.D in Condensed Matter Physics, Jilin University, 2015 - 2020
+  * Duties included: The development of kinetic energy density functionals for OFDFT
+  * Advisor: [Yanming Ma](http://mym.calypso.cn/) (Academician of Chinese Academy of Sciences)
 
-Research in computational condensed-matter physics and the development of efficient electronic-structure methods.
+Work experience
+======
+* **Sep. 2022 - Jun. 2025** : University of California, Riverside
+  * Postdoc Researcher
+  * Duties included: The development of velocity-gauge real-time TDDFTB
+  * Advisor: [Bryan M. Wong](https://www.bmwong-group.com/)
 
-## Education
+* **Oct. 2021 - Jul. 2024** : Lawrence Berkeley National Laboratory
+  * Postdoc Researcher & Affiliate
+  * Duties included: The development of core-level binding energies calculation method
 
-* **Ph.D. in Condensed Matter Physics**, Jilin University, 2015–2020
-  Advisor: [Yanming Ma](http://mym.calypso.cn/), Academician of the Chinese Academy of Sciences
-  Research: kinetic-energy density functionals for orbital-free DFT
-* **B.S. in Physics**, Jilin University, 2011–2015
-
-## Professional Experience
-
-* **Postdoctoral Researcher**, University of California, Riverside, September 2022–June 2025
-  Developed velocity-gauge real-time TDDFTB methods with [Bryan M. Wong](https://www.bmwong-group.com/).
-* **Postdoctoral Researcher and Affiliate**, Lawrence Berkeley National Laboratory, October 2021–July 2024
-  Developed real-space methods for calculating core-level binding energies.
-* **Postdoctoral Researcher**, Jilin University, July 2020–September 2021
-  First Ding Xin Scholarship; developed nonlocal pseudopotential methods for orbital-free DFT with [Yanchao Wang](https://klmsms.jlu.edu.cn/info/1020/1196.htm).
+* **Jul. 2020 - Sep. 2021** : Jilin University
+  * Postdoc Researcher under the first ‘Ding Xin’ scholarship
+  * Duties included: The development of nonlocal pseudopotential method for OFDFT
+  * Advisor: [Yanchao Wang](https://klmsms.jlu.edu.cn/info/1020/1196.htm)
 
 ## Expertise
 
