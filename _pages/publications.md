@@ -9,7 +9,7 @@ redirect_from:
   - /publications.html/
 ---
 
-Corresponding author<sup>†</sup>; equal contribution<sup>a</sup>. See also [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate).
+Corresponding author<sup>†</sup>; equal contribution<sup>#</sup>. See also [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## 2026
 
@@ -20,7 +20,7 @@ Corresponding author<sup>†</sup>; equal contribution<sup>a</sup>. See also [Go
 <a href="https://xqjlu.github.io/publications/" target="_blank" rel="noopener noreferrer"><b>Proc. Natl. Acad. Sci. USA</b> Accepted (2026)</a>
 </li>
 
-<li>Yifan Yao<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, James Symons Galassi, and Bryan M. Wong<sup>†</sup>,
+<li>Yifan Yao<sup>#</sup>, <b>Qiang Xu</b><sup>#</sup>, James Symons Galassi, and Bryan M. Wong<sup>†</sup>,
 "Assessment of machine-learned vs. classical/quantum atomistic simulations for predicting palladium-hydrogen materials",
 <a href="https://doi.org/10.1016/j.ijhydene.2026.158600" target="_blank" rel="noopener noreferrer"><b>Int. J. Hydrog. Energy</b> 294, 158600 (2026)</a>
 </li>
@@ -72,7 +72,7 @@ Corresponding author<sup>†</sup>; equal contribution<sup>a</sup>. See also [Go
 </li>
 
 
-<li>Chongqing Yang<sup>a</sup>, Jianfang Liu<sup>a</sup>, Rebecca S. H. Khoo, Maged Abdelsamie,
+<li>Chongqing Yang<sup>#</sup>, Jianfang Liu<sup>#</sup>, Rebecca S. H. Khoo, Maged Abdelsamie,
 Miao Qi, He Li, Haiyan Mao, Sydney Hemenway, <b>Qiang Xu</b>, Yunfei Wang, Beihang Yu, Xinxin Liu,
 Liana M. Klivansky, Xiaodan Gu, Chenhui Zhu, Jeffrey A. Reimer, Ganglong Cui, Carolin M. Sutter-Fella,
 Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
@@ -80,7 +80,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <a href="https://doi.org/10.1038/s41467-025-58822-2" target="_blank" rel="noopener noreferrer"><b>Nat. Commun.</b> 16, 3498 (2025)</a>
 </li>
 
-<li>Pengye Liu<sup>a</sup>, Quan Zhuang<sup>a</sup>, <b>Qiang Xu</b><sup>a</sup>, Tian Cui<sup>†</sup>, and Zhao Liu<sup>†</sup>,
+<li>Pengye Liu<sup>#</sup>, Quan Zhuang<sup>#</sup>, <b>Qiang Xu</b><sup>#</sup>, Tian Cui<sup>†</sup>, and Zhao Liu<sup>†</sup>,
 "Mechanism of high temperature superconductivity in compressed H<sub>2</sub>-molecular-type hydride",
 <a href="https://doi.org/10.1126/sciadv.adt9411" target="_blank" rel="noopener noreferrer"><b>Sci. Adv.</b> 11, eadt9411 (2025)</a>
 </li>
@@ -145,12 +145,12 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <a href="https://doi.org/10.1021/acs.jctc.3c00689" target="_blank" rel="noopener noreferrer"><b>J. Chem. Theory Comput.</b> 19, 22, 7989-7997 (2023)</a>
 </li>
 
-<li>Drew M. Glenna<sup>a</sup>, Asmita Jana<sup>a</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,
+<li>Drew M. Glenna<sup>#</sup>, Asmita Jana<sup>#</sup>, <b>Qiang Xu</b>, Yixiao Wang, Yuqing Meng, Yingchao Yang, Manish Neupane, Lucun Wang, Haiyan Zhao<sup>†</sup>, Jin Qian<sup>†</sup>, and Seth W. Snyder<sup>†</sup>,
 "Carbon capture: theoretical guidelines for activated carbon-based CO<sub>2</sub> adsorption material evaluation",
 <a href="https://doi.org/10.1021/acs.jpclett.3c02711" target="_blank" rel="noopener noreferrer"><b>J. Phys. Chem. Lett.</b> 14, 47, 10693-10699 (2023)</a>
 </li>
 
-<li>Shane W. Devlin<sup>a</sup>, Sasawat Jamnuch<sup>a</sup>, <b>Qiang Xu</b>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>,
+<li>Shane W. Devlin<sup>#</sup>, Sasawat Jamnuch<sup>#</sup>, <b>Qiang Xu</b>, Amanda A. Chen, Jin Qian<sup>†</sup>, Tod A. Pascal<sup>†</sup>, and Richard J. Saykally<sup>†</sup>,
 "Agglomeration drives the reversed fractionation of aqueous carbonate and bicarbonate at the air–water interface",
 <a href="https://doi.org/10.1021/jacs.3c05093" target="_blank" rel="noopener noreferrer"><b>J. Am. Chem. Soc.</b> 145, 41, 22384-22393 (2023)</a>
 </li>
@@ -195,7 +195,7 @@ Jian Zhang, Gang Ren, and Yi Liu<sup>†</sup>,
 <a href="https://doi.org/10.1103/PhysRevB.100.205132" target="_blank" rel="noopener noreferrer"><b>Phys. Rev. B</b> 100, 205132 (2019)</a>
 </li>
 
-<li><b>Qiang Xu</b><sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
+<li><b>Qiang Xu</b><sup>#</sup>, Sheng Wang<sup>#</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>†</sup>, and Yanming Ma<sup>†</sup>,
 "Ab initio electronic structure calculations using a real-space Chebyshev-filtered subspace iteration method",
 <a href="https://doi.org/10.1088/1361-648X/ab2a63" target="_blank" rel="noopener noreferrer"><b>J. Phys.: Condens. Matter</b> 31, 455901 (2019)</a>
 </li>
