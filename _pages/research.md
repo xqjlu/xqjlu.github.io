@@ -30,9 +30,9 @@ Orbital-free density functional theory (OFDFT) scales linearly with the number o
   * XWM functional for periodic systems: [Q. Xu et al., PRB (2019)](https://doi.org/10.1103/PhysRevB.100.205132)
   * LDAK-X functionals for isolated systems: [Q. Xu et al., PRB (2020)](https://doi.org/10.1103/PhysRevB.101.045110)
 * **Nonlocal pseudopotential energy density functionals (NLPPFs)**
-  * Metals: [Q. Xu et al., Nature Communications (2022)](https://doi.org/10.1038/s41467-022-29002-3)
+  * Metals: [Q. Xu et al., Nat. Commun. (2022)](https://doi.org/10.1038/s41467-022-29002-3)
   * Semiconductors: [C. Ma et al., PRB (2024)](https://doi.org/10.1103/PhysRevB.109.075144)
-* **Free-energy density functionals**
+* **Free-energy density functionals (FEDFs)**
   * XWM-FEDF for warm dense matter: [C. Ma et al., PRB (2024)](https://doi.org/10.1103/PhysRevB.110.085113)
 
 ## 3. Kohn–Sham DFT
