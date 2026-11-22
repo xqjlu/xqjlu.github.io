@@ -56,5 +56,5 @@ author_profile: true
 ## Alumni
 
 <div class="people-alumni">
-  <p><strong>Dr. Yongshuo Chen</strong> · Graduate student, 2025–2026 · Mingzhi Quantum, Hangzhou</p>
+  <p><strong>Dr. Yongshuo Chen</strong> · PhD student, 2025–2026 · Mingzhi Quantum, Hangzhou</p>
 </div>
