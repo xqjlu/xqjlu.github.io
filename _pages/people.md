@@ -17,6 +17,22 @@ author_profile: true
   </article>
 
   <article class="person-card">
+    <img src="/images/people/yiguo-li.jpg" alt="Portrait of Yiguo Li" width="480" height="600" loading="lazy">
+    <div class="person-card__body">
+      <h3>Yiguo Li</h3>
+      <p>PhD · 2026–present</p>
+    </div>
+  </article>
+
+  <article class="person-card">
+    <img src="/images/people/chengjie-peng.jpg" alt="Portrait of Chengjie Peng" width="480" height="600" loading="lazy">
+    <div class="person-card__body">
+      <h3>Chengjie Peng</h3>
+      <p>MSc · 2025–present</p>
+    </div>
+  </article>
+
+  <article class="person-card">
     <img src="/images/people/dan-liu.jpg" alt="Portrait of Dan Liu" width="480" height="600" loading="lazy">
     <div class="person-card__body">
       <h3>Dan Liu</h3>
